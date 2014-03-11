@@ -1,0 +1,10 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "63.vitruvian.svg", "captions": {"en": "This is our Vitruvian Man project. "}},
+	{ "slide": "64.ideas6.1.svg", "captions": {"en": "It will compare our human body with our virtual models and find ratios between them.  "}},
+	{ "slide": "65.ideas6.2.svg", "captions": {"en": "Based on a large sample of population, with measurements taken with mobile devices.  "}},
+	{ "slide": "66.ideas6.3.svg", "captions": {"en": "We aim at calculating your organ coordinates inside your body.  "}},
+	{ "slide": "67.ideas6.4.svg", "captions": {"en": "Usecases could involve the creations of virtual surgery software, biologically correct avatars, comparisons, statistics, medical images indexing.  "}},
+	{ "slide": "68.vitruvian.svg", "captions": {"en": "Vitruvian Man.  Virtualise yourself.  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_6" x="0" y="0" width="100" height="100"/>
+  </pattern>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_4"/>
+  </pattern>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_42">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_43">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+ </defs>
+ <g>
+  <title>subject</title>
+  <text stroke="#007fff" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" id="svg_3" y="198.75717" x="486.08481" stroke-width="0" fill="#000000">spoiler:</text>
+  <text id="svg_36" stroke="#007fff" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" y="595.97999" x="635.00321" stroke-width="0" fill="#000000">moral limits</text>
+  <path id="svg_41" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="11" stroke="#428bca" fill="#000000"/>
+  <path marker-start="url(#se_marker_start_svg_42)" stroke="#428bca" fill-opacity="0" id="svg_42" d="m652.17389,471.73914c131.01459,-208.55054 209.85492,-43.1882 314.78259,-195.21738" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" fill="#000000"/>
+  <path stroke="#428bca" id="svg_43" marker-start="url(#se_marker_start_svg_43)" fill-opacity="0" d="m940.86945,834.12994c-377.68134,-4.20221 -168.40631,-136.66534 -285.21735,-227.82556" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" fill="#000000"/>
+  <g id="svg_44">
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" id="svg_37" y="887.39135" x="1267.6079" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#007fff" fill="#000000">users</text>
+   <circle id="svg_40" r="23.41376" cy="831.40626" cx="1006.08689" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#007fff" fill="#000000"/>
+  </g>
+  <g id="svg_45">
+   <text id="svg_26" stroke="#007fff" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" y="332.93582" x="1362.17411" stroke-width="0" fill="#000000">creators</text>
+   <circle id="svg_39" r="23.41376" cy="276.95311" cx="1006.08692" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#007fff" fill="#000000"/>
+  </g>
+ </g>
+</svg>

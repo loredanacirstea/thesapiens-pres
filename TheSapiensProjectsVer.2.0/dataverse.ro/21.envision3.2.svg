@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_6" x="0" y="0" width="100" height="100"/>
+  </pattern>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_4"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>subject</title>
+  <g id="svg_1">
+   <ellipse fill="#000000" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="730.65216" cy="583.04351" id="svg_27" rx="110.86957" ry="76.08696" fill-opacity="0"/>
+   <ellipse fill="#000000" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="1037.17398" cy="518.91304" rx="110.86957" ry="76.08696" fill-opacity="0" id="svg_29"/>
+   <ellipse fill="#000000" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="1293.69572" cy="708.04348" rx="110.86957" ry="76.08696" fill-opacity="0" id="svg_30"/>
+   <ellipse fill="#000000" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="626.30438" cy="851.52175" rx="110.86957" ry="76.08696" fill-opacity="0" id="svg_31"/>
+   <line fill="none" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="641.52172" y1="774.34787" x2="706.73912" y2="659.13047" id="svg_32"/>
+   <line fill="none" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="830.65216" y1="548.2609" x2="928.47825" y2="528.69569" id="svg_33"/>
+   <line fill="none" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="1132.82608" y1="556.95656" x2="1215.43478" y2="648.26091" id="svg_34"/>
+   <line fill="none" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="813.26086" y1="637.39134" x2="1193.52173" y2="740.26091" id="svg_35" stroke="#000000"/>
+   <line fill="none" stroke="#000000" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="726.30433" y1="820.00004" x2="976.30434" y2="587.39134" id="svg_36"/>
+  </g>
+  <a xlink:href="http://en.wikipedia.org/wiki/Linked_data" id="svg_2">
+   <text fill="#000000" stroke="#007fff" stroke-width="0" x="959.99758" y="274.34786" id="svg_18" font-size="162" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">linked data</text>
+  </a>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_6"/>
+  </pattern>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_4" x="0" y="0" width="100" height="100"/>
+  </pattern>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="leftarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_15">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40z"/>
+  </marker>
+ </defs>
+ <g>
+  <title>subject</title>
+  <text stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" id="svg_7" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="134" y="447.68255" x="337.72517" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">everyone</text>
+  <text id="svg_5" stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="134" y="447.68432" x="1497.23169" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">research</text>
+  <text id="svg_14" stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" y="349.4236" x="921.89337" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca">same chances</text>
+  <path stroke="#428bca" marker-start="url(#se_marker_start_svg_15)" id="svg_15" d="m1273.47839,373.90186l-601.73938,-0.43481l601.73938,0.43481z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="16" fill="#428bca"/>
+  <text font-weight="bold" id="svg_16" stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="134" y="854.81982" x="905.44068" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca">meritocracy</text>
+ </g>
+</svg>

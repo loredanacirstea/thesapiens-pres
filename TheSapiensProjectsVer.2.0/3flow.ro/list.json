@@ -1,0 +1,9 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "01.3flow.svg", "captions": {"en": "three flow.  Platform for creating automatic human and machine readable presentations.  "}},
+	{ "slide": "current4.0.svg", "captions": {"en": "It will also be a tool for visual programming.  "}},
+	{ "slide": "current4.1.svg", "captions": {"en": "Data will come directly from your standardized data file and it will automatically be compiled from its structure and hierarchy.  You will also be able to automatically create those data files from manually creating the presentation.  "}},
+	{ "slide": "current4.2.svg", "captions": {"en": "This will also be available for scripts.  In addition, you will be able to create entire applications using individual, atomic parts of code, which will be available for reuse by you or anyone else.  "}},
+	{ "slide": "02.3flow.svg", "captions": {"en": "three flow.  Making presentations computable  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

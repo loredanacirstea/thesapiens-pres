@@ -1,0 +1,16 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "18.dataverse.svg", "captions": {"en": "dataverse.  Management platform for data.   "}},
+	{ "slide": "19.envision3.0.svg", "captions": {"en": "Remember our atomic entities from subject dot raw.  "}},
+	{ "slide": "19a.envision1.5.svg", "captions": {"en": "An entity is a term, any of our nouns can be an entity.  The words “cat”, “table”, “car” are entities.  In the academic field, these are entities created by official institutions trying to create terminologies.  The sources are those institutions, be they anatomists associations, physics institutes or mathematical societies.  "}},
+	{ "slide": "19b.envision1.3.svg", "captions": {"en": "Subject dot raw will be a cloud of structured information with the backbone made of entities integrated in a vast hierarchy.  Ok, we have our knowledge map.  What now?  "}},
+	{ "slide": "20.envision3.1.svg", "captions": {"en": "How about data? Numbers, statistics and such?  These will be linked with every entity they describe.  "}},
+	{ "slide": "21.envision3.2.svg", "captions": {"en": "We are not the only ones who talk about linked data.  This has been a subject of interest for quite some years.  What we bring new to the table is the link with.  "}},
+	{ "slide": "22.ideas2.2.svg", "captions": {"en": "The terms hierarchy.  "}},
+	{ "slide": "23.ideas2.1.svg", "captions": {"en": "And some cool options for managing data.  Depending on your account rights, you will be able to view, edit, have all the versions through which the data has passed and see who made the changes, clone the data onto your device.  And because we will want to make the data available to everyone, it will be human and machine readable.  That means you can create code aiming to find a cure for pancreatic cancer, for example.  You won’t have to deal with wrong data formats like png, pdf, doc, xls, odt which are very difficult to use by programmers.  All data will be accessed in the same way, it will have the same format. Your sole problem will be your algorithm.  "}},
+	{ "slide": "24.envision3.6.svg", "captions": {"en": "And speaking of data.  "}},
+	{ "slide": "25.envision3.7.svg", "captions": {"en": "All public data should be.  "}},
+	{ "slide": "26.envision3.8.svg", "captions": {"en": "Free, accessible, human and machine readable.  Also, free, accessible public data is not a new concept. There are many organisations who are trying to make this a reality. Governments have programs for this.  However, do you think that they will make the data truly open and usable for greater purposes?  This would be the case if the data was linked and machine readable and as far as we know, there are no attempts at this.  "}},
+	{ "slide": "27.dataverse.svg", "captions": {"en": "Our goal is creating software for the ultimate linked data.  dataverse"}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

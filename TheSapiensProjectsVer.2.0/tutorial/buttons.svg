@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_60">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_61">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_62">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_63">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_64">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_65">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" se_type="rightarrow" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_66">
+   <path stroke-width="10" stroke="#666666" fill="#666666" d="m100,50l-100,40l30,-40l-30,-40z"/>
+  </marker>
+ </defs>
+ <g>
+  <g id="svg_11">
+   <title>Menu</title>
+   <g id="svg_49">
+    <title>Previous</title>
+    <circle stroke="#000000" id="svg_6" stroke-width="8" r="49.48272" cy="540.00002" cx="569.1442" fill="none"/>
+    <path id="svg_8" d="m593.71625,516.25916l-23.90344,23.8559l23.90344,23.90265l-13.64911,13.67261l-37.55267,-37.57526l37.55267,-37.52783" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   </g>
+   <g id="svg_50">
+    <title>Captions</title>
+    <circle stroke="#000000" id="svg_18" stroke-width="8" r="49.48272" cy="540.00002" cx="699.42944" fill="none"/>
+    <path id="svg_19" d="m701.71362,507.25537c-21.74548,0 -39.37189,13.21509 -39.37189,29.53668c0,5.56049 2.07672,10.77802 5.66376,15.22308l-5.66376,12.42566l15.78992,-4.05017c6.57349,3.68982 14.72589,5.92084 23.58197,5.92084c21.74554,0 39.37195,-13.21521 39.37195,-29.51941s-17.6264,-29.53668 -39.37195,-29.53668zm-7.8689,45.96002l-11.3866,0.0614l0.31335,-32.81146l11.27765,-0.2525l-0.38531,5.56l-6.89722,0.18091l-0.19141,22.54041l7.59851,0.37872l-0.32898,4.34253l0,0zm17.04352,0.04419l0.22156,-5.15753l8.96826,0.39209l-0.37878,-22.31201l-7.55066,-0.11414l-0.18945,-6.05988l12.5191,-0.07849l0.53601,33.3606l-14.12604,-0.03064z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+   </g>
+   <g id="svg_51">
+    <title>Voice</title>
+    <circle stroke="#000000" id="svg_10" stroke-width="8" r="49.48272" cy="540.00002" cx="829.71468" fill="none"/>
+    <path id="svg_12" d="m792.38519,524.5755l0,31.18304l17.76129,0l26.5564,21.80872l0.02399,-74.80048l-26.58038,21.80872l-17.76129,0l0,0zm54.51178,-3.59088c-1.54254,-1.51813 -4.02484,-1.51813 -5.56696,0.02466c-1.54211,1.54205 -1.54211,4.02405 0,5.59082l0,-0.02478c3.39795,3.42273 5.49457,8.09741 5.49457,13.30255c0,5.18103 -2.09662,9.85596 -5.49457,13.25391c-1.54211,1.54211 -1.54211,4.04877 0,5.5907c0.77106,0.77106 1.78345,1.1568 2.79547,1.1568c1.01208,0 2.02435,-0.38574 2.79541,-1.1568c4.81982,-4.81982 7.8078,-11.49469 7.8078,-18.8446c0,-7.37402 -3.01208,-14.07343 -7.83173,-18.89325l0,0zm9.06104,-9.06042c-1.54236,-1.54279 -4.0246,-1.54279 -5.56671,0c-1.5423,1.56616 -1.5423,4.04797 0,5.59094c5.71143,5.73566 9.25385,13.61517 9.25385,22.36273c0,8.72327 -3.54242,16.60345 -9.25385,22.33887c-1.5423,1.54218 -1.5423,4.02441 0,5.56689c0.77106,0.77081 1.78333,1.15656 2.79529,1.15656c1.01233,0 2.02441,-0.38574 2.79547,-1.15656c7.13342,-7.13336 11.56775,-17.01373 11.56775,-27.90576c0,-10.91644 -4.43427,-20.79688 -11.5918,-27.95367z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+   </g>
+   <g id="svg_54">
+    <title>Settings</title>
+    <circle stroke="#000000" id="svg_13" stroke-width="8" r="49.48272" cy="540" cx="1220.57039" fill="none"/>
+    <path id="svg_16" d="m1247.95593,541.58881l9.41382,-4.974c-0.18298,-1.86102 -0.53369,-3.63098 -0.99158,-5.40076l-10.45154,-1.43451c-0.90039,-2.19696 -2.10583,-4.21082 -3.50903,-6.07196l3.98218,-9.79553c-1.297,-1.2818 -2.71594,-2.44055 -4.2113,-3.5094l-8.88013,5.55353c-2.07532,-1.06744 -4.31763,-1.92255 -6.6676,-2.44043l-3.2196,-9.94751c-0.90015,-0.06104 -1.81567,-0.12244 -2.74622,-0.12244s-1.83105,0.0614 -2.7467,0.12244l-3.17371,9.85571c-2.41077,0.51837 -4.71448,1.3432 -6.85107,2.47205l-8.72742,-5.49335c-1.495,1.06885 -2.91394,2.2276 -4.21069,3.5094l3.87537,9.52026c-1.51086,1.9538 -2.7771,4.08936 -3.73816,6.37836l-10.11621,1.40338c-0.44226,1.76978 -0.80872,3.53973 -0.99146,5.40076l9.09351,4.79089c0.09143,2.53253 0.5188,5.00458 1.26611,7.2937l-6.86548,7.59772c0.80847,1.64825 1.69348,3.23413 2.7157,4.76001l10.10034,-2.16656c1.64783,1.80084 3.54053,3.35706 5.61523,4.66858l-0.38123,10.34552c1.64771,0.73212 3.37195,1.37299 5.15686,1.86115l6.37805,-8.20862c1.12903,0.15283 2.28882,0.24414 3.448,0.24414c1.26648,0 2.51831,-0.12183 3.7384,-0.27454l6.40808,8.23901c1.78577,-0.48816 3.49426,-1.12903 5.15771,-1.86115l-0.39685,-10.52802c1.9834,-1.28186 3.78369,-2.80756 5.37073,-4.54651l10.36023,2.22699c1.02185,-1.49475 1.90686,-3.11176 2.70056,-4.76001l-7.06458,-7.8418c0.67163,-2.16656 1.0531,-4.48596 1.15967,-6.86652l0,0zm-15.63953,11.96179l-4.45532,2.89935l-2.74622,-4.21094c-1.43445,0.54846 -2.97534,0.88495 -4.5929,0.88495c-7.07959,0 -12.80127,-5.73737 -12.80127,-12.81677c0,-7.07922 5.72168,-12.81592 12.80127,-12.81592c7.07983,0 12.81702,5.73669 12.81702,12.81592c0,3.53973 -1.43433,6.71368 -3.75366,9.03308l2.73108,4.21033l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+   </g>
+   <g id="svg_55">
+    <title>Next</title>
+    <circle stroke="#000000" stroke-width="8" id="svg_3" r="49.48272" cy="540.00001" cx="1350.85572" fill="none"/>
+    <path stroke="#000000" id="svg_4" d="m1326.65942,563.09308l23.57983,-23.57623l-23.57983,-23.5791l13.47632,-13.47296l37.05615,37.05206l-37.05615,37.06354" stroke-width="0" fill="#000000"/>
+   </g>
+   <g id="svg_2">
+    <title>QR</title>
+    <circle stroke="#000000" stroke-width="9" r="49.48272" cy="540.00002" cx="959.99995" fill="none" id="svg_44"/>
+    <g id="svg_43">
+     <path d="m950.54474,531.50934l0,-18.19843l0,-4.54956l-18.19836,0l-4.55035,0l0,4.54956l0,13.64813l0,4.55029l18.19769,0l4.55103,0zm-18.19836,-4.55029l0,-13.64813l13.64734,0l0,13.64813l-13.64734,0z" id="svg_5" fill="#000000" stroke-width="0"/>
+     <rect x="936.89486" y="517.85958" width="4.54974" height="4.54974" id="svg_9" fill="#000000" stroke-width="0"/>
+     <polygon points="964.194 517.861 959.644 517.861 959.644 513.311 964.194 513.311 964.194 508.761 959.644 508.761 955.093 508.761 955.093 513.311 955.093 522.41 959.644 522.41 959.644 526.959 964.194 526.959" id="svg_21" fill="#000000" stroke-width="0"/>
+     <polygon points="959.644 540.608 964.194 540.608 964.194 531.509 959.644 531.509 959.644 526.959 955.093 526.959 955.093 536.058 959.644 536.058" id="svg_22" fill="#000000" stroke-width="0"/>
+     <path d="m973.29205,508.76135l-4.54962,0l0,22.74799l4.54962,0l13.64935,0l4.54956,0l0,-18.19843l0,-4.54956l-18.19891,0zm13.64856,18.19769l-13.64856,0l0,-13.64813l13.64935,0l0,13.64813l-0.00079,0z" id="svg_23" fill="#000000" stroke-width="0"/>
+     <rect x="977.8412" y="517.85958" width="4.55101" height="4.54974" id="svg_24" fill="#000000" stroke-width="0"/>
+     <polygon points="927.796 536.058 927.796 540.608 927.796 545.158 932.346 545.158 932.346 540.608 936.895 540.608 936.895 536.058" id="svg_25" fill="#000000" stroke-width="0"/>
+     <polygon points="964.194 549.706 964.194 545.158 959.644 545.158 959.644 540.608 955.093 540.608 955.093 536.058 941.445 536.058 941.445 540.608 936.895 540.608 936.895 545.158 945.994 545.158 945.994 540.608 950.545 540.608 950.545 545.158 955.093 545.158 955.093 549.706 959.644 549.706 959.644 554.257 964.194 554.257" id="svg_26" fill="#000000" stroke-width="0"/>
+     <polygon points="968.742 563.356 973.292 563.356 973.292 558.805 968.742 558.805 968.742 554.257 964.194 554.257 964.194 558.805 959.644 558.805 959.644 554.257 955.093 554.257 955.093 563.356 959.644 563.356 959.644 567.905 964.194 567.905 964.194 563.356" id="svg_27" fill="#000000" stroke-width="0"/>
+     <rect x="973.2921" y="554.25745" width="4.54974" height="4.54846" id="svg_28" fill="#000000" stroke-width="0"/>
+     <rect x="968.74237" y="549.70645" width="4.54974" height="4.55101" id="svg_29" fill="#000000" stroke-width="0"/>
+     <polygon points="968.742 545.158 973.292 545.158 973.292 549.706 977.841 549.706 977.841 554.257 982.392 554.257 982.392 545.158 977.841 545.158 977.841 540.608 973.292 540.608 973.292 536.058 968.742 536.058 968.742 540.608 964.194 540.608 964.194 545.158" id="svg_30" fill="#000000" stroke-width="0"/>
+     <rect x="986.94066" y="545.15799" width="4.55037" height="9.09947" id="svg_31" fill="#000000" stroke-width="0"/>
+     <rect x="977.8412" y="536.05788" width="4.55101" height="4.54974" id="svg_32" fill="#000000" stroke-width="0"/>
+     <rect x="982.39221" y="540.60762" width="4.5491" height="4.55037" id="svg_33" fill="#000000" stroke-width="0"/>
+     <rect x="986.94066" y="536.05788" width="4.55037" height="4.54974" id="svg_34" fill="#000000" stroke-width="0"/>
+     <rect x="982.39221" y="554.25745" width="4.5491" height="4.54846" id="svg_35" fill="#000000" stroke-width="0"/>
+     <rect x="986.94066" y="558.80528" width="4.55037" height="4.55101" id="svg_36" fill="#000000" stroke-width="0"/>
+     <rect x="986.94066" y="567.90539" width="4.55037" height="4.54974" id="svg_37" fill="#000000" stroke-width="0"/>
+     <polygon points="977.841 563.356 973.292 563.356 973.292 567.905 977.841 567.905 977.841 572.454 982.392 572.454 982.392 558.805 977.841 558.805" id="svg_38" fill="#000000" stroke-width="0"/>
+     <rect x="964.19391" y="567.90539" width="9.09819" height="4.54974" id="svg_39" fill="#000000" stroke-width="0"/>
+     <rect x="955.09317" y="567.90539" width="4.55037" height="4.54974" id="svg_40" fill="#000000" stroke-width="0"/>
+     <path d="m927.79602,554.25726l0,18.19708l4.55035,0l18.19836,0l0,-4.5495l0,-13.64758l0,-4.55103l-22.74872,0l0,4.55103zm18.19769,0l0,13.64819l-13.64734,0l0,-13.64819l13.64734,0z" id="svg_41" fill="#000000" stroke-width="0"/>
+     <rect x="936.89486" y="558.80528" width="4.54974" height="4.55101" id="svg_42" fill="#000000" stroke-width="0"/>
+    </g>
+   </g>
+   <g id="svg_7">
+    <title>Refresh</title>
+    <circle stroke="#000000" id="svg_15" stroke-width="8" r="49.48272" cy="540.00001" cx="1090.28518" fill="none"/>
+    <path stroke="#000000" fill="#000000" stroke-width="3" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1090.25,510.2536c3.06006,0.02002 5.98999,0.54004 8.73999,1.42999l-2.19995,3.81989l15.63,0l-3.91003,-6.77972l-3.91003,-6.74982l-2.01001,3.53979c-3.84998,-1.39984 -8,-2.19989 -12.33997,-2.19989c-20.02002,0 -36.19995,16.21954 -36.19995,36.20898c0,8.26978 2.80994,15.90955 7.51001,22.0094l5.48999,-4.2099c-3.78003,-4.94989 -6.04004,-11.10962 -6.1001,-17.7995c0.06006,-16.1795 13.12,-29.24921 29.30005,-29.26923zm28.64001,7.25983l-5.5,4.20996c3.79004,4.94983 6.10999,11.08966 6.10999,17.79944c-0.06006,16.14954 -13.13,29.21912 -29.25,29.24915c-2.87,0 -5.60999,-0.45996 -8.23999,-1.24994l2.07996,-3.5799l-15.63,0l3.90002,6.74982l3.91003,6.77985l2.19995,-3.78992c3.66003,1.31989 7.63,2.01996 11.78003,2.01996c19.96997,0 36.15002,-16.20966 36.15002,-36.17902c0,-8.29974 -2.81006,-15.9295 -7.51001,-22.0094z" id="svg_46"/>
+   </g>
+  </g>
+  <path marker-end="url(#se_marker_end_svg_60)" fill-opacity="0" id="svg_60" d="m190.86951,267.82611c69.71002,172.31909 222.02902,144.63766 333.04352,216.95651" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <text font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" id="svg_1" y="254.18685" x="157.18269" stroke-width="0" stroke="#000000" fill="#7f7f7f">back</text>
+  <text id="svg_14" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="254.18515" x="1743.05194" stroke-width="0" stroke="#000000" fill="#7f7f7f">forward</text>
+  <text id="svg_17" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="131.85021" x="627.83045" stroke-width="0" stroke="#000000" fill="#7f7f7f">captions</text>
+  <text id="svg_20" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="868.36177" x="262.61304" stroke-width="0" stroke="#000000" fill="#7f7f7f">robot voice</text>
+  <text id="svg_47" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="1018.80678" x="959.99893" stroke-width="0" stroke="#000000" fill="#7f7f7f">reload</text>
+  <g id="svg_57">
+   <text id="svg_45" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="290.54589" x="1127.83046" stroke-width="0" stroke="#000000" fill="#7f7f7f">QR code</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="39" id="svg_53" y="346.08699" x="1127.8376" stroke-width="0" stroke="#000000" fill="#7f7f7f">for present page</text>
+  </g>
+  <g id="svg_59">
+   <text id="svg_48" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="843.80641" x="1630.00439" stroke-width="0" stroke="#000000" fill="#7f7f7f">future settings</text>
+   <text id="svg_52" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="39" y="901.41545" x="1630.00609" stroke-width="0" stroke="#000000" fill="#7f7f7f">not implemented yet</text>
+  </g>
+  <path id="svg_61" marker-end="url(#se_marker_end_svg_61)" fill-opacity="0" d="m1656.08691,271.08698c-51.29004,171.31909 -223.97095,115.63763 -270.95654,203.95648" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <path id="svg_62" marker-end="url(#se_marker_end_svg_62)" fill-opacity="0" d="m606.08698,142.82608c115.71002,153.31909 11.02905,203.6377 82.04352,330.95654" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <path id="svg_63" marker-end="url(#se_marker_end_svg_63)" fill-opacity="0" d="m982,301.5c-37.29004,58.31909 10.02905,85.63763 -14.95654,167.95654" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <path id="svg_64" marker-end="url(#se_marker_end_svg_64)" fill-opacity="0" d="m255,809.5c133.71002,-173.68091 498.02905,31.63763 562.04352,-200.04346" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <path id="svg_65" marker-end="url(#se_marker_end_svg_65)" fill-opacity="0" d="m966,954.5c-12.29004,-177.68091 125.02905,-244.36243 121.04346,-344.04346" stroke-width="5" stroke="#666666" fill="#000000"/>
+  <path id="svg_66" marker-end="url(#se_marker_end_svg_66)" fill-opacity="0" d="m1594,790.5c-100.29004,-127.68091 -360.97095,-65.36237 -367.95654,-179.04346" stroke-width="5" stroke="#666666" fill="#000000"/>
+ </g>
+</svg>

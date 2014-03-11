@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs>
+  <clipPath id="clipPath28" clipPathUnits="userSpaceOnUse">
+   <path id="path30" d="m-165.84555,1690.62219l1279.9996,0l0,-1280l-1279.9996,0l0,1280z"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_6">
+   <rect fill="none" stroke-width="30" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="1036" y="378.96702" width="230.16102" height="100.57457" id="svg_1" rx="40" ry="40" stroke="#000000"/>
+   <rect fill="none" stroke-width="30" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="1365.76853" y="378.96702" width="230.16102" height="100.57457" rx="40" ry="40" id="svg_2" stroke="#000000"/>
+   <path fill="none" stroke-width="30" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" d="m1270.0293,427.80371c30.94604,-15.47302 61.89197,-16.44009 92.83801,0" id="svg_3" stroke="#000000"/>
+   <path fill="none" stroke-width="30" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" d="m1369.20142,870.55634l53.6217,0m-53.6217,-43.51343l53.6217,0m-0.11572,-23.86078l0,90.25171c154.47339,8.08374 158.05969,-98.92828 0,-90.25171zm172.66541,44.95953l-55.79089,0m-175.64429,-23.65839l5.29272,0l0,5.29279l-5.29272,0l0,-5.29279zm-0.26038,43.25311l5.32166,0l0,5.30731l-5.32166,0l0,-5.30731zm231.60876,-22.19775l5.32178,0l0,5.30731l-5.32178,0l0,-5.30731z" id="svg_4" stroke="#000000"/>
+   <path fill="none" stroke-width="30" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" d="m1587.22595,386.22c113.79114,5.48001 135.7113,43.84021 139.25708,84.13449c3.5459,40.29425 -59.31323,109.27808 -70.59558,185.67609c-11.28235,76.39801 84.77917,160.21021 -50.28723,191.47852" id="svg_5" stroke="#000000"/>
+  </g>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="544.75667" y="198" id="svg_7" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">3D Printers</text>
+  <text style="cursor: move;" fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="1388.33069" y="127.52344" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_8">Augmented</text>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="1388.33069" y="219.51563" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_9">Reality</text>
+  <g id="svg_10">
+   <g id="g12" transform="matrix(0.850354 0 0 -0.850354 142.401 1508.39)">
+    <path fill="#000000" fill-rule="nonzero" id="path14" d="m486.65436,1072.62219l0,-153.00006l139.49969,58.79108l0,143.70898l-139.49969,-49.5z"/>
+   </g>
+   <g id="g16" transform="matrix(0.850354 0 0 -0.850354 142.401 1508.39)">
+    <path fill="#000000" fill-rule="nonzero" id="path18" d="m320.15488,978.41321l139.49976,-58.79095l0,152.99994l-139.49976,49.5l0,-143.70898z"/>
+   </g>
+   <g id="g20" transform="matrix(0.850354 0 0 -0.850354 142.401 1508.39)">
+    <path fill="#000000" fill-rule="nonzero" id="path22" d="m473.15448,1189.18677l-148.49963,-40.06409l148.49963,-54l148.49957,54l-148.49957,40.06409z"/>
+   </g>
+   <g id="g24" transform="matrix(0.850354 0 0 -0.850354 142.401 1508.39)">
+    <g clip-path="url(#clipPath28)" id="g26">
+     <g id="g32">
+      <path fill="#000000" fill-rule="nonzero" id="path34" d="m648.65405,771.12219c-12.427,0 -22.5,10.073 -22.5,22.5c0,12.427 10.073,22.5 22.5,22.5c12.427,0 22.5,-10.073 22.5,-22.5c0,-12.427 -10.073,-22.5 -22.5,-22.5m90,585l0,-463.50006l-45,-44.99994l-440.99924,0l-45.00023,44.99994l0,463.50006l-58.50012,22.5l0,-647.5l647.99959,0l0,647.5l-58.5,-22.5z"/>
+     </g>
+     <g id="g36">
+      <path fill="#000000" fill-rule="nonzero" id="path38" d="m377.45953,1310.62219l-143.30511,0l0,-36l179.3551,0l-36.04999,36z"/>
+     </g>
+     <g id="g40">
+      <path fill="#000000" fill-rule="nonzero" id="path42" d="m568.85815,1310.62219l-36.09399,-36l178.39001,0l0,36l-142.29602,0z"/>
+     </g>
+     <g id="g44">
+      <path fill="#000000" fill-rule="nonzero" id="path46" d="m473.15497,1240.6217l89.99957,90l0,0l-179.99918,0l89.9996,-90z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

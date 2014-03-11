@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_35">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_1"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_36">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_2"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_37">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_3"/>
+  </marker>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_31" y="127.60771" x="540.86952" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">entity</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_32" y="127.60974" x="1388.69563" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">source</text>
+  <g id="svg_9">
+   <rect stroke="#428bca" ry="51" rx="51" id="svg_5" height="178.6352" width="416.18203" y="304.36436" x="347.01771" fill-opacity="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="39" fill="#000000"/>
+   <text stroke="#428bca" transform="matrix(0.874172 0 0 0.874172 33.741 123.544)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_6" y="340.19843" x="596.41639" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">osteoblast</text>
+  </g>
+  <g id="svg_21">
+   <rect stroke="#428bca" id="svg_7" ry="51" rx="51" height="178.6352" width="573.91313" y="550.4628" x="268.15216" fill-opacity="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="39" fill="#000000"/>
+   <text stroke="#428bca" transform="matrix(0.874172 0 0 0.874172 33.741 123.544)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_20" y="621.71367" x="596.40965" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">lunar petrology</text>
+  </g>
+  <g id="svg_23">
+   <rect stroke="#428bca" id="svg_10" ry="51" rx="51" height="178.6352" width="433.28539" y="796.69089" x="338.46604" fill-opacity="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="39" fill="#000000"/>
+   <text stroke="#428bca" transform="matrix(0.874172 0 0 0.874172 33.741 121.37)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_22" y="905.87047" x="596.40961" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">robotics</text>
+  </g>
+  <a xlink:href="http://astrothesaurus.org/" id="svg_14">
+   <title>Unified Astronomy Thesaurus</title>
+   <g id="svg_13">
+    <rect stroke="#000000" id="svg_8" ry="70" rx="70" fill-opacity="0" height="184.15509" width="360.86957" y="550.5222" x="1195.32607" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="11" fill="#000000"/>
+    <a xlink:href="http://astrothesaurus.org/" id="svg_12">
+     <title>Unified Astronomy Thesaurus</title>
+     <text stroke="#428bca" transform="matrix(0.85567 0 0 0.85567 172.521 143.043)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_11" y="614.99748" x="1406.19539" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">UAT</text>
+    </a>
+   </g>
+  </a>
+  <path stroke="#000000" marker-start="url(#se_marker_start_svg_35)" id="svg_35" d="m801.73877,383.04352l389.13708,0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="none"/>
+  <a xlink:href="http://www.unifr.ch/ifaa/" id="svg_19">
+   <title>International Federation of Associations of Anatomists</title>
+   <g id="svg_18">
+    <rect stroke="#000000" ry="70" rx="70" fill-opacity="0" id="svg_4" height="184.15509" width="360.86957" y="308.07489" x="1195.32607" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="11" fill="#000000"/>
+    <a xlink:href="http://www.unifr.ch/ifaa/" id="svg_17">
+     <title>International Federation of Associations of Anatomists</title>
+     <text stroke="#000000" transform="matrix(0.85567 0 0 0.85567 172.521 143.043)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_16" y="331.65816" x="1406.19589" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">FIPAT</text>
+    </a>
+   </g>
+  </a>
+  <a xlink:href="http://www.ams.org/mathscinet/msc/msc2010.html" id="svg_27">
+   <title>American Mathematical Society</title>
+   <g id="svg_26">
+    <rect stroke="#000000" id="svg_15" ry="70" rx="70" fill-opacity="0" height="184.15509" width="360.86957" y="793.88839" x="1195.32603" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="11" fill="#000000"/>
+    <a xlink:href="http://www.ams.org/mathscinet/msc/msc2010.html" id="svg_25">
+     <title>American Mathematical Society</title>
+     <text stroke="#428bca" transform="matrix(0.85567 0 0 0.85567 172.521 143.043)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="92" id="svg_24" y="899.40724" x="1406.18951" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">AMS</text>
+    </a>
+   </g>
+  </a>
+  <path stroke="#000000" id="svg_36" marker-start="url(#se_marker_start_svg_36)" d="m881.08356,636.30432l313.05023,0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="none"/>
+  <path stroke="#000000" id="svg_37" marker-start="url(#se_marker_start_svg_37)" d="m811.51837,879.78259l380.44159,0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="none"/>
+ </g>
+</svg>

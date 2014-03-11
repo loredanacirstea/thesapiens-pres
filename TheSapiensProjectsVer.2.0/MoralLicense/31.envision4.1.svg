@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000000" id="svg_18" fill="#ffffff" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1449.72827,441.03143c0,-1.13959 -0.50842,-2.22452 -1.42786,-3.2113c-0.91956,-0.98676 -2.25061,-1.87537 -3.89465,-2.62152c-1.64478,-0.74609 -3.60303,-1.34958 -5.77783,-1.76703c-2.17505,-0.41684 -4.56628,-0.64804 -7.07703,-0.64804c-2.51062,0 -4.90173,0.2312 -7.07678,0.64804c-2.1748,0.41745 -4.13318,1.02094 -5.77783,1.76703c-1.64404,0.74615 -2.97485,1.63477 -3.89441,2.62152c-0.91956,0.98679 -1.42798,2.07172 -1.42798,3.2113c0,1.13943 0.50842,2.2243 1.42798,3.21112c0.91956,0.98682 2.25037,1.87549 3.89441,2.62161c1.64465,0.74615 3.60303,1.34964 5.77783,1.76718c2.17505,0.4166 4.56616,0.64783 7.07678,0.64783c2.51074,0 4.90198,-0.23123 7.07703,-0.64783c1.08777,-0.20908 2.12122,-0.46442 3.08813,-0.76077c0.96655,-0.29572 2.38806,-0.89624 3.21045,-1.26938c0.82166,-0.37292 1.04504,-0.51923 1.69849,-0.95761c0.65332,-0.43881 1.21558,-0.90753 1.67517,-1.40103c0.91968,-0.98682 1.4281,-2.07169 1.4281,-3.21112l0,0l0,0l0,0l0,0l0,0l0,0l0,0z"/>
+  <path stroke="#000000" id="svg_16" fill="#ffffff" stroke-width="6" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1519.82874,414.4769c0,-2.7431 -1.05371,-5.35583 -2.95874,-7.73239c-1.9054,-2.37573 -4.66333,-4.51584 -8.07104,-6.3121c-3.40808,-1.7963 -7.46582,-3.25064 -11.97302,-4.25504c-4.50659,-1.00525 -9.46216,-1.56064 -14.66504,-1.56064c-5.20276,0 -10.15833,0.55539 -14.66577,1.56064c-4.50635,1.00439 -8.5647,2.45874 -11.97217,4.25504c-3.40771,1.79626 -6.16504,3.93637 -8.07104,6.3121c-1.90564,2.37656 -2.95898,4.98929 -2.95898,7.73239c0,2.74307 1.05334,5.35583 2.95898,7.73157c1.90601,2.37646 4.66333,4.51538 8.07104,6.31219c3.40747,1.797 7.46582,3.25119 11.97217,4.25568c4.50745,1.00406 9.46301,1.55945 14.66577,1.55945c5.20288,0 10.15845,-0.55539 14.66504,-1.55945c2.25391,-0.50278 4.39478,-1.11731 6.39868,-1.83099c2.00378,-0.7139 4.94897,-2.15805 6.65234,-3.05673c1.70398,-0.8981 2.16663,-1.25027 3.52039,-2.30673c1.35413,-1.05591 2.51953,-2.18515 3.47266,-3.37341c1.90503,-2.37573 2.95874,-4.98849 2.95874,-7.73157l0,0l0,0z"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" id="svg_1" y="189.84446" x="485.54241" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">creator</text>
+  <text id="svg_2" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" y="189.84176" x="1370.32638" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">bad user</text>
+  <g id="svg_17">
+   <g id="svg_18">
+    <circle fill-opacity="0" r="85.71327" cy="492.52443" cx="1324.11557" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" fill="#000000" id="svg_19" stroke="#000000"/>
+    <path d="m1454.56433,843.91522c-3.00293,-117.13043 -66.18994,-251.2608 -131.35034,-251.3913c-65.1604,-0.13043 -129.60571,138.07239 -133.23779,250.60858" fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="13" fill="#000000" id="svg_20" stroke="#000000"/>
+   </g>
+   <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1255.05156" y1="634.61135" x2="1114.95038" y2="679.61135" id="svg_21" stroke="#000000"/>
+   <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1111.9905" y1="679.61135" x2="1005.43468" y2="607.61135" id="svg_22" stroke="#000000"/>
+   <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1325.10214" y1="669.61135" x2="1111.9905" y2="657.61135" id="svg_23" stroke="#000000"/>
+   <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1111.9905" y1="657.61135" x2="1006.42131" y2="577.61135" id="svg_24" stroke="#000000"/>
+  </g>
+  <g id="svg_25">
+   <g id="svg_16">
+    <g id="svg_5">
+     <circle fill-opacity="0" id="svg_3" r="86.87496" cy="492.52444" cx="303.56516" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" stroke="#000000" fill="#000000"/>
+     <path id="svg_4" d="m171.3476,843.91479c3.04352,-117.13043 67.08705,-251.2608 133.13055,-251.39124c66.04346,-0.13049 131.36224,138.07233 135.0434,250.60852" fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="13" stroke="#000000" fill="#000000"/>
+    </g>
+    <line fill="none" stroke="#000000" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="373.56522" y1="634.61136" x2="515.56522" y2="679.61136" id="svg_6"/>
+    <line fill="none" stroke="#000000" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="518.56522" y1="679.61136" x2="626.56522" y2="607.61136" id="svg_7"/>
+    <line fill="none" stroke="#000000" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="302.56522" y1="669.61136" x2="518.56522" y2="657.61136" id="svg_8"/>
+    <line fill="none" stroke="#000000" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="518.56522" y1="657.61136" x2="625.56522" y2="577.61136" id="svg_9"/>
+   </g>
+   <rect fill="none" stroke="#000000" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="629.30435" y="423.61136" width="315" height="314" id="svg_10" rx="45" ry="45"/>
+   <g id="svg_14">
+    <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="786.79851" y="519.34781" id="svg_11" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">tools for</text>
+    <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="786.80225" y="690.31011" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_12">the World</text>
+    <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="786.79174" y="599.00373" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_13">saving</text>
+   </g>
+  </g>
+  <path stroke="#000000" id="svg_17" fill="#ffffff" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1868.87976,331.89429c0,-13.32544 -5.30457,-26.01788 -14.90186,-37.5611c-9.59668,-11.54282 -23.48413,-21.93576 -40.64563,-30.66354c-17.16223,-8.72784 -37.60046,-15.79041 -60.29724,-20.67059c-22.69824,-4.88022 -47.65393,-7.57904 -73.8573,-7.57904c-26.20251,0 -51.15942,2.69882 -73.8551,7.57904c-22.69836,4.88019 -43.13647,11.94159 -60.29968,20.67059c-17.16211,8.72778 -31.04773,19.12073 -40.64502,30.66354c-9.59644,11.54321 -14.901,24.23566 -14.901,37.5611c0,13.3241 5.30457,26.01678 14.901,37.55975c9.59729,11.54297 23.48291,21.93695 40.64502,30.66608c17.16321,8.72668 37.60132,15.78851 60.29968,20.66852c22.69531,4.88055 47.65259,7.57922 73.8551,7.57922c26.20337,0 51.15906,-2.69867 73.8573,-7.57922c11.34827,-2.43939 22.13171,-5.42548 32.224,-8.89117c10.09241,-3.46783 24.92358,-10.48462 33.50476,-14.84827c8.58093,-4.3642 10.9115,-6.0755 17.72876,-11.20746c6.81726,-5.1319 12.68726,-10.61676 17.48535,-16.3877c9.59729,-11.54297 14.90186,-24.23566 14.90186,-37.55975l0,0l0,0l0,0z"/>
+  <g id="svg_28">
+   <text stroke="#428bca" transform="matrix(0.675679 0 0 0.675679 477.79 224.028)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" id="svg_15" y="116.07231" x="1782.3972" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="0" fill="#000000">let's restrict</text>
+   <text stroke="#428bca" transform="matrix(0.675679 0 0 0.675679 477.79 224.028)" id="svg_26" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="193.14061" x="1778.04904" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="0" fill="#000000">some human</text>
+   <text stroke="#428bca" transform="matrix(0.675679 0 0 0.675679 477.79 224.028)" id="svg_27" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="76" y="273.57541" x="1773.70119" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="0" fill="#000000">rights</text>
+  </g>
+ </g>
+</svg>

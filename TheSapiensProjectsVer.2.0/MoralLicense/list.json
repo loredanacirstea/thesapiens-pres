@@ -1,0 +1,12 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "29.license.svg", "captions": {"en": "So you have all the information in the world, all the data. Everyone can do anything with it. Is that ok?  "}},
+	{ "slide": "30.envision4.0.svg", "captions": {"en": "Moral limits should be created by data authors for the users.  "}},
+	{ "slide": "31.envision4.1.svg", "captions": {"en": "There are a lot of Nobel winners which have contributed without wanting or knowing to a lot of mayhem.  "}},
+	{ "slide": "32.envision4.2.svg", "captions": {"en": "And a world of open data such as this, should not exist without moral licenses.  "}},
+	{ "slide": "33.envision4.3.svg", "captions": {"en": "We have a moral license. Now what? We don’t want to manually manage the process. So, we want the license in three forms.  "}},
+	{ "slide": "34.envision4.5.svg", "captions": {"en": "A legal form, which will be created with the help of lawyers.  "}},
+	{ "slide": "35.envision4.6.svg", "captions": {"en": "A common language form that everyone understands.  "}},
+	{ "slide": "36.envision4.7.svg", "captions": {"en": "And a machine readable form, which will be part of an algorithm to automatically revoke licenses or part of the rights when problems occur.    "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

@@ -1,0 +1,8 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "57.karmapoints.svg", "captions": {"en": "karma points.  Management platform for our volunteers.  "}},
+	{ "slide": "58.ideas3.1.svg", "captions": {"en": "This will be our volunteer management system.  It will also be easy to extend for other groups or organisations.  "}},
+	{ "slide": "59.ideas3.2.svg", "captions": {"en": "It will record timestamps, your actual work, karmapoints earned for that work, manage our task list, your ranking among the other volunteers and automatically detect what skills you have acquired through your work.  Its public output will be your automatically compiled CV within the project.  "}},
+	{ "slide": "60.karmapoints.svg", "captions": {"en": "karma points.  Transparency in volunteering.  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

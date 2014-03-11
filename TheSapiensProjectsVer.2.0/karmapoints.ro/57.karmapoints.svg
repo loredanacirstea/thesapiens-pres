@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_13_blur">
+   <feGaussianBlur stdDeviation="10"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_3">
+   <g id="svg_1">
+    <g filter="url(#svg_13_blur)" id="svg_13">
+     <rect stroke="#000000" id="svg_14" ry="40" rx="40" height="525.42398" width="81.03554" y="476.60331" x="747.45165" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f"/>
+     <rect stroke="#000000" id="svg_15" transform="matrix(0.462103 -0.462103 0.462103 0.462103 12.4501 554.62)" ry="40" rx="40" height="543.99999" width="124" y="1037.07564" x="584.34786" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f"/>
+     <rect stroke="#000000" id="svg_16" transform="matrix(0.462103 0.462103 -0.462103 0.462103 619.771 -357.665)" ry="40" rx="40" height="600.56852" width="124" y="440.21022" x="1336.63527" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f"/>
+     <path stroke="#000000" id="svg_17" d="m1120.86108,602.90222l16.76062,-62.74921c5.08093,-18.87897 13.34741,-49.84357 18.43311,-68.72711l16.83264,-62.67758c5.01819,-18.9599 -6.25891,-30.23709 -25.21887,-25.21887l-62.67761,16.83258c-18.88379,5.08539 -49.85339,13.35635 -68.72791,18.43234l-62.74951,16.76038c-18.89282,5.09482 -23.05872,20.53989 -9.18884,34.40976l142.12646,142.12656c13.86987,13.86981 29.31506,9.70392 34.40991,-9.18884z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f"/>
+    </g>
+    <rect stroke="#005629" ry="40" rx="40" id="svg_5" height="525.42398" width="81.03554" y="455.69091" x="744.8376" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="#00bf5f"/>
+    <rect stroke="#005629" transform="matrix(0.462103 -0.462103 0.462103 0.462103 26.8353 538.375)" id="svg_6" ry="40" rx="40" height="569.45583" width="124" y="985.3477" x="565.34787" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="#00bf5f"/>
+    <rect stroke="#005629" id="svg_7" transform="matrix(0.462103 0.462103 -0.462103 0.462103 607.308 -356.331)" ry="40" rx="40" height="628.85276" width="124" y="404.06808" x="1324.63527" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="#00bf5f"/>
+    <path stroke="#005629" id="svg_10" d="m1115.6333,581.98975l16.7605,-62.74896c5.08081,-18.87921 13.34692,-49.84381 18.43286,-68.72729l16.83252,-62.67767c5.01819,-18.95996 -6.25891,-30.23709 -25.21887,-25.21887l-62.67786,16.83231c-18.88367,5.08578 -49.85315,13.3562 -68.72754,18.43268l-62.74915,16.76031c-18.89294,5.09473 -23.05933,20.54004 -9.18933,34.41006l142.12634,142.12634c13.87012,13.87006 29.31543,9.7038 34.41052,-9.1889z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" fill="#00bf5f"/>
+    <path stroke="#005629" id="svg_18" d="m779.37726,729.60944l0,0c2.242,-8.367 10.84235,-13.3324 19.20935,-11.09045l0,0c4.01801,1.0766 7.44391,3.70514 9.52386,7.3075c2.07983,3.60229 2.64331,7.88403 1.56677,11.90173l0,0c-2.24194,8.36694 -10.84222,13.33246 -19.20935,11.09052l0,0c-8.36707,-2.24194 -13.33252,-10.84235 -11.09064,-19.20929l0,0zm22.64771,13.33282l0,0c4.5639,-3.69073 5.76392,-10.15253 2.82947,-15.2356c-2.93439,-5.08301 -9.13116,-7.2746 -14.6087,-5.16754l11.77924,20.40314l0,0zm-14.99548,-18.54596c-4.56378,3.68982 -5.76422,10.15308 -2.82941,15.23474c2.93445,5.08301 9.13086,7.27551 14.60883,5.16748l-11.77942,-20.40222l0,0l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#005629"/>
+    <path stroke="#005629" id="svg_19" d="m1019.87061,502.4635l0,0c-2.24182,-8.367 2.72375,-16.96741 11.09106,-19.20944l0,0c4.01807,-1.07663 8.29944,-0.51324 11.90186,1.56656c3.60229,2.07971 6.2312,5.5061 7.30774,9.5238l0,0c2.24194,8.367 -2.72339,16.96735 -11.09082,19.20941l0,0c-8.36731,2.242 -16.9679,-2.72339 -19.20984,-11.09033l0,0zm26.28064,0.2226l0,0c2.10706,-5.47827 -0.08459,-11.67438 -5.16748,-14.60919c-5.08289,-2.93475 -11.54529,-1.73438 -15.23572,2.82922l20.4032,11.77997l0,0zm-22.26013,-8.56342c-2.10742,5.47736 0.08459,11.67487 5.16724,14.60828c5.08289,2.93481 11.54565,1.73535 15.23572,-2.82928l-20.40295,-11.77899l0,0l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#005629"/>
+   </g>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" id="svg_2" y="214.26302" x="960.00437" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">karmapoints</text>
+  </g>
+ </g>
+</svg>

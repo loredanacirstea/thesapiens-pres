@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_6"/>
+  </pattern>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_4" x="0" y="0" width="100" height="100"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>subject</title>
+  <g id="svg_11">
+   <g id="svg_8">
+    <g id="svg_3">
+     <path stroke="#007fff" d="m1648.80688,478.6738l50.81091,0l0,-48.01605l-51.96497,-1.06848" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#b2b2b2" id="svg_9"/>
+     <path stroke="#007fff" id="svg_1" d="m1702.30981,408.53146l-5.84875,0l0,-74.8187c0,-22.21381 -18.36853,-40.2872 -40.94592,-40.2872l-99.43909,0l0,-46.04189l5.84973,0c9.65125,0 17.54822,-7.77113 17.54822,-17.26743l0,-57.55177c0,-9.49721 -7.89795,-17.26718 -17.54822,-17.26718l-58.49255,0c-9.65112,0 -17.54883,7.76997 -17.54883,17.26718l0,57.55177c0,9.49629 7.89771,17.26743 17.54883,17.26743l5.84863,0l0,46.04189l-99.43542,0c-22.57715,0 -40.94543,18.07339 -40.94543,40.2872l0,74.8187l-5.84851,0c-9.65186,0 -17.54724,7.771 -17.54724,17.2673l0,57.55255c0,9.49631 7.89551,17.26639 17.54724,17.26639l58.49219,0c9.65112,0 17.54675,-7.77008 17.54675,-17.26639l0,-57.55255c0,-9.49631 -7.89563,-17.2673 -17.54675,-17.2673l-5.84863,0l0,-69.064l93.58582,0l0,69.064l-5.84863,0c-9.65112,0 -17.54883,7.771 -17.54883,17.2673l0,57.55255c0,9.49631 7.89771,17.26639 17.54883,17.26639l58.49255,0c9.65125,0 17.54822,-7.77008 17.54822,-17.26639l0,-57.55255c0,-9.49631 -7.89795,-17.2673 -17.54822,-17.2673l-5.84973,0l0,-69.064l93.59045,0l0,69.064l-5.84973,0c-9.65137,0 -17.5481,7.771 -17.5481,17.2673l0,57.55255c0,9.49631 7.89673,17.26639 17.5481,17.26639l58.49304,0c9.65125,0 17.54907,-7.77008 17.54907,-17.26639l0,-57.55255c0,-9.49631 -7.89783,-17.2673 -17.54907,-17.2673l0,0l0,0l0,0l0,0l0,0l0,0zm-286.61365,69.06412l-46.79395,0l0,-46.04199l46.79395,0l0,46.04199zm140.37988,0l-46.79419,0l0,-46.04199l46.79419,0l0,46.04199zm-46.79419,-253.23415l0,-46.04228l46.79419,0l0,46.04228l-46.79419,0zm187.1792,253.23415l-46.79456,0l0,-46.04199l46.79456,0l0,46.04199z" fill="#428bca"/>
+    </g>
+    <text stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="111" id="svg_5" y="397.28289" x="671.3998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">automatic indexing</text>
+   </g>
+   <g id="svg_10">
+    <g id="svg_39">
+     <rect stroke="#000000" id="svg_36" ry="6" rx="6" height="144.67335" width="63.15509" y="780.02931" x="644.23565" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca"/>
+     <rect stroke="#000000" ry="6" rx="6" id="svg_35" height="229.14706" width="63.15509" y="695.5556" x="544.56903" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca"/>
+     <rect stroke="#000000" id="svg_37" ry="6" rx="6" height="86.41562" width="63.15509" y="838.28704" x="739.95508" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca"/>
+     <rect stroke="#000000" id="svg_38" ry="6" rx="6" height="299.05635" width="63.15509" y="625.64634" x="443.91563" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca"/>
+    </g>
+    <text stroke="#000000" transform="matrix(1.08367 0 0 1.06628 -21.2026 -54.467)" id="svg_7" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="111" y="816.70228" x="1178.14979" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">statistics</text>
+   </g>
+  </g>
+ </g>
+</svg>

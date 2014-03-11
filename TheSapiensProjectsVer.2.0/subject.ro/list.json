@@ -1,0 +1,15 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "08.subject.svg", "captions": {"en": "Subject dot raw.  Tree of knowledge platform for indexing data, using official terminologies and thesauri.  "}},
+	{ "slide": "09.envision1.2.svg", "captions": {"en": "Imagine a smart and linked internet "}},
+	{ "slide": "10.envision1.1.svg", "captions": {"en": "that we can all access and have parts of it on our own devices.  "}},
+	{ "slide": "11.envision1.3.svg", "captions": {"en": "a smart and linked internet with unique entity sources.  "}},
+	{ "slide": "12.envision1.4.svg", "captions": {"en": "So, what is an entity?  "}},
+	{ "slide": "13.envision1.5.svg", "captions": {"en": "An entity is a term, any of our nouns can be an entity.  The words “cat”, “table”, “car” are entities.  In the academic field, these are entities created by official institutions trying to create terminologies.  The sources are those institutions, be they anatomists associations, physics institutes or mathematical societies.  "}},
+	{ "slide": "14.envision1.3.svg", "captions": {"en": "So we look at this cloud of structured information as a backbone of entities integrated in a vast hierarchy.  Ok, we have our knowledge map.  What now?"}},
+	{ "slide": "15.envision1.6.svg", "captions": {"en": "Information indexing.  We do not want to change the location of information.  It can stay very well on the sites it was created or published.  We just want to index it.  "}},
+	{ "slide": "16.envision1.7.svg", "captions": {"en": "Simply put, we want to provide references, like links, for every information, article, image, question, answer, offer, demand or data pertaining to an entity.  And we will have fine, granular entities, in order to find your subject of interest very quickly.  "}},
+	{ "slide": "17.envision1.8.svg", "captions": {"en": "And the result will be "}},
+	{ "slide": "18.subject.svg", "captions": {"en": "subject dot raw"}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" id="svg_1" y="250.71402" x="523.04708" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">creator</text>
+  <text id="svg_2" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="162" y="250.71132" x="1370.32638" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#428bca" fill="#000000">bad user</text>
+  <g id="svg_33">
+   <circle stroke="#000000" fill-opacity="0" id="svg_3" r="82.29977" cy="494.717" cx="786.37172" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" fill="#000000"/>
+   <path stroke="#000000" id="svg_4" d="m912.65271,852.32465c-2.95679,-123.18872 -65.17773,-264.25641 -129.34131,-264.39362c-64.16382,-0.13721 -127.62341,145.21356 -131.19971,263.57043" fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="13" fill="#000000"/>
+   <line stroke="#000000" fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="716.19012" y1="632.19649" x2="578.23179" y2="679.524" id="svg_6"/>
+   <line stroke="#000000" fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="575.31718" y1="679.524" x2="470.39113" y2="603.79998" id="svg_7"/>
+   <line stroke="#000000" fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="785.16929" y1="669.00677" x2="575.31718" y2="656.3861" id="svg_8"/>
+   <line stroke="#000000" fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="575.31718" y1="656.3861" x2="471.36266" y2="572.2483" id="svg_9"/>
+   <rect stroke="#000000" fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="133.43475" y="410.28303" width="334.29521" height="330.24087" id="svg_10" rx="45" ry="45"/>
+   <g id="svg_14">
+    <text stroke="#000000" transform="matrix(1.09352 0 0 1.05172 714.027 -309.579)" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="-378.08797" y="779.65003" id="svg_11" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">tools for</text>
+    <text stroke="#000000" transform="matrix(1.09352 0 0 1.05172 714.027 -309.579)" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="-378.08423" y="950.61233" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_12">the World</text>
+    <text stroke="#000000" transform="matrix(1.09352 0 0 1.05172 714.027 -309.579)" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="-378.09474" y="859.30595" font-size="69" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_13">saving</text>
+   </g>
+  </g>
+  <g id="svg_37">
+   <circle id="svg_35" r="5.38516" cy="479.02264" cx="1482.59119" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#000000"/>
+   <g id="svg_17">
+    <g id="svg_18">
+     <circle fill-opacity="0" r="85.71327" cy="500.93387" cx="1464.44589" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="14" fill="#000000" id="svg_19" stroke="#000000"/>
+     <path d="m1594.89124,852.32465c-3,-117.13 -66.19006,-251.26105 -131.3501,-251.39099c-65.15991,-0.13104 -129.59998,138.07196 -133.22998,250.60797" fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="13" fill="#000000" id="svg_20" stroke="#000000"/>
+    </g>
+    <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1395.38188" y1="643.02079" x2="1255.2807" y2="688.02079" id="svg_21" stroke="#000000"/>
+    <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1252.32082" y1="688.02079" x2="1145.765" y2="616.02079" id="svg_22" stroke="#000000"/>
+    <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1465.43246" y1="678.02079" x2="1252.32082" y2="666.02079" id="svg_23" stroke="#000000"/>
+    <line fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x1="1252.32082" y1="666.02079" x2="1146.75163" y2="586.02079" id="svg_24" stroke="#000000"/>
+   </g>
+   <path id="svg_34" d="m1499.15637,547.77264c-26.78259,-24.85504 -46.56519,-25.71014 -74.34778,0.43481" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="9" stroke="#000000" fill="#ffffff"/>
+   <circle id="svg_36" r="5.38516" cy="479.02264" cx="1436.59116" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#000000"/>
+  </g>
+ </g>
+</svg>

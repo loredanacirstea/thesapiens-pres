@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1180" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<script type="text/javascript">
+<![CDATA[
+
+var frame = parseInt( getParameterByName("frame"));
+if (!frame) frame = 0;
+var path = getParameterByName("path");
+if (!path) path= "./";
+var lang ="en";
+var frames ;
+
+fetchJSONFile(path+'list.json', function(data){
+    // do something with your data
+    frame = parseInt( getParameterByName("frame"));
+    console.log(frame);
+    frames = data;
+
+    zoom = getParameterByName("zoom", frames[frame].slide);
+  current_frame = frames[frame]
+  url = getParameterByName("url", frames[frame].slide);
+  
+
+  
+  if (!qr) qr = location.href;
+
+  console.log(url)
+  qr = getParameterByName("qr", frames[frame].slide);
+
+  fetchXML(path+frames[frame].slide,function(newSVGDoc){
+      //import it into the current DOM
+      var n = document.importNode(newSVGDoc.documentElement,true);
+      document.documentElement.appendChild(n);
+
+      var circle = document.getElementById("the_circle"); //now you have the circle
+      if (url) url_svg(url);
+      if (zoom) zoom_svg(zoom);
+  }) 
+  
+});
+
+/*
+var frames = [
+  { slide: "../TheSapiensLinks.svg", captions: {en: ""}},
+  { slide: "37.smp.svg", captions: {en: "The Sapiens Mapping Project is our visual medical knowledge project.  "}},
+  { slide: "38.envision5.0.svg", captions: {en: "Google Earth is an example of geographical and social indexing of information.  "}},
+  { slide: "39.envision5.3.svg", captions: {en: "Now imagine all human body related information indexed inside a 3D virtual human body.  "}},
+  { slide: "40.envision5.5.svg", captions: {en: "With zoomable tissues at cellular levels and beyond.  "}},
+  { slide: "41.nav2d.svg", captions: {en: "We are currently at the 2D level and have a functional atlas made from the Visible Korean Human slices.  "}},
+  { slide: "42.nav2d2.svg", captions: {en: "This is our computer generated frontal imagine from the 2500 slices. You can even see every slice.  "}},
+  { slide: "43.ideas1.1.svg", captions: {en: "It will be integrated with subject dot raw, the terms hierarchy and dataverse, the data management system.  "}},
+  { slide: "44.smp.svg", captions: {en: "The Sapiens Mapping Project.  Know thy self.  "}},
+  { slide: "url.svg?url=http://www.screenr.com/embed/q3dH", captions: {en: ""}},
+  { slide: "../TheSapiensLinks.svg", captions: {en: ""}},
+]
+*/
+
+var current_frame;
+var qr,zoom,url;
+
+function fetchJSONFile(path, callback) {
+    var httpRequest = new XMLHttpRequest();
+    httpRequest.onreadystatechange = function() {
+        if (httpRequest.readyState === 4) {
+            if (httpRequest.status === 200) {
+                var data = JSON.parse(httpRequest.responseText);
+                if (callback) callback(data);
+            }
+        }
+    };
+    httpRequest.open('GET', path);
+    httpRequest.send(); 
+}
+
+
+function url_svg(url){
+  var obj =document.getElementById("url")
+
+  //var svg =$("#iframe").contents().find("svg")
+  console.log(obj)
+  obj.setAttribute("src",url)
+  
+
+}
+
+function get_max(a, b) {
+  if (a > b) return a;
+  return b;
+}
+
+function zoom_svg(zoom_id){
+  var obj =document.getElementById(zoom_id)
+  var svg =document.getElementsByTagName("svg")
+  box=obj.getBBox()
+  box_o = svg[1].getBBox();
+  center_o = {x: box_o.x+box_o.width/2, y: box_o.y+box_o.height/2}
+  ratio_o = box_o.width/box_o.height;
+
+  box_f = box;
+  center_f = {x: box_f.x+box_f.width/2, y: box_f.y+box_f.height/2}
+  ratio_f = box_f.width/box_f.height;
+  //var obj =document.getElementById('iframe').contentWindow.document.getElementById(zoom_id)
+  console.log(box);
+  var steps = 100;
+
+  (function myLoop (i) {          
+     setTimeout(function () {   
+        //alert('hello');          //  your code here                
+        svg[1].setAttributeNS(null,"viewBox",""+box_f.x*(steps-i)/steps+" "+box_f.y*(steps-i)/steps+" "+(box_f.height*ratio_o+(box_o.width-box_f.height*ratio_o)*i/steps)+" "+(box_f.height+(box_o.height-box_f.height)*i/steps)+"")
+        if (--i) myLoop(i);      //  decrement i and call myLoop again if i > 0
+     }, 3)
+  })(steps);                        //  pass the number of iterations as an argument
+  console.log(svg)
+
+}
+
+
+function goto(fr){
+  //document.getElementById("iframe").src = frames[fr];
+  if (fr>=0 && fr<frames.length) {
+    var loc= window.location.pathname.substring(window.location.pathname.lastIndexOf("/")+1) || "index.html";
+    location.href = loc+"?frame="+fr+"&path="+path;
+  }
+  
+}
+
+function setQr(){
+  var svg =document.getElementsByTagName("svg")[0]
+  var svgns = "http://www.w3.org/2000/svg";
+  var xlinkns = "http://www.w3.org/1999/xlink";
+  if ( window.svgDocument == null )
+        svgDocument = svg.ownerDocument;
+    shape = svgDocument.createElementNS(svgns, "image");
+    shape.setAttributeNS(null, "x", 550);
+    shape.setAttributeNS(null, "y", 150);
+    shape.setAttributeNS(null, "width", 800);
+    shape.setAttributeNS(null, "height", 800);
+    shape.setAttributeNS(xlinkns, "xlink:href", "http://chart.apis.google.com/chart?cht=qr&chs=400x400&chld=H|0&chl="+qr);
+    svg.appendChild(shape);
+
+}
+
+function setCaption(){
+  var txt =current_frame.captions[lang];
+  var svg =document.getElementsByTagName("svg")[0]
+  var svgns = "http://www.w3.org/2000/svg";
+  if ( window.svgDocument == null )
+        svgDocument = svg.ownerDocument;
+    //<text style="cursor: text;" stroke="#000000" transform="matrix(1.83306 0 0 1.83306 -780.196 -845.747)" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_1" y="1009.8437" x="949.33936" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Texddsdsdt</text>
+  var 
+    lines = splitLine(txt, 150).split("\n")
+    for (line in lines) {
+      shape = svgDocument.createElementNS(svgns, "text");
+      shape.setAttributeNS(null, "x", 950);
+      shape.setAttributeNS(null, "y", 950+line*24);
+      shape.setAttributeNS(null, "stroke", "#000000");
+      shape.setAttributeNS(null, "font-size", 24);
+      shape.setAttributeNS(null, "font-family",  "Sans-serif");
+      shape.setAttributeNS(null, "text-anchor", "middle");
+      shape.setAttributeNS(null, "opacity", 0.8);
+      shape.appendChild(svgDocument.createTextNode(lines[line]))
+      svg.appendChild(shape);
+
+    }
+    
+    
+    
+}
+
+function getParameterByName(name, url) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    if (!url) url = location.search;
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(url);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+function setVoice(){
+  console.log(txt)
+  xmlns = "http://www.w3.org/1999/xhtml";
+  var txt = current_frame.captions[lang]
+  var audioElement = document.createElementNS( xmlns, 'audio'); 
+
+  audioElement.setAttribute('src', "http://speechutil.com/convert/ogg?text='"+txt+"'");
+  audioElement.setAttribute('type', "audio/ogg");  
+  audioElement.play();
+}
+
+function splitLine(st,n) {var b = ''; var s = st;while (s.length > n) {var c = s.substring(0,n);var d = c.lastIndexOf(' ');var e =c.lastIndexOf('\n');if (e != -1) d = e; if (d == -1) d = n; b +=       c.substring(0,d) + '\n';s = s.substring(d+1);}return b+s;}
+
+function fetchXML  (url2, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url2, true);
+    xhr.onreadystatechange = function (evt) {
+    //Do not explicitly handle errors, those should be
+    //visible via console output in the browser.
+    if (xhr.readyState === 4) {
+        callback(xhr.responseXML);
+    }
+    };
+    xhr.send(null);
+    url = getParameterByName("url", frames[frame].slide);
+    if (url) url_svg(url);
+    //console.log(url)
+    
+};
+
+//fetch the document
+
+
+
+
+window.addEventListener('load',function(){
+  //document.getElementById("svg_1").setAttribute('xlink:href',frames[frame].slide);
+
+
+  
+
+
+});
+
+
+]]>
+</script>
+
+<g>
+  
+  <g id="svg_11">
+    <title>Menu</title>
+   <g id="svg_49" pointer-events="visible" onclick="goto(frame-1)">
+    <title>Previous</title>
+    <circle fill="none" cx="569.14424" cy="1124.19625" r="49.48272" stroke-width="8" id="svg_6" stroke="#000000"/>
+    <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m593.71631,1100.45569l-23.90344,23.85657l23.90344,23.90332l-13.64911,13.67297l-37.55267,-37.57629l37.55267,-37.52893" id="svg_8"/>
+   </g>
+   <g id="svg_50" pointer-events="visible" onclick="setCaption()">
+    <title>Captions</title>
+    <circle fill="none" cx="699.42948" cy="1124.19625" r="49.48272" stroke-width="8" id="svg_18" stroke="#000000"/>
+    <path fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m701.71368,1091.45166c-21.74548,0 -39.37189,13.21545 -39.37189,29.53748c0,5.56067 2.07672,10.77832 5.66376,15.22351l-5.66376,12.42603l15.78992,-4.05029c6.57349,3.68994 14.72589,5.92102 23.58197,5.92102c21.74554,0 39.37195,-13.21558 39.37195,-29.52026s-17.6264,-29.53748 -39.37195,-29.53748zm-7.8689,45.9613l-11.3866,0.0614l0.31335,-32.81238l11.27765,-0.25256l-0.38531,5.56018l-6.89722,0.18091l-0.19141,22.54102l7.59851,0.37878l-0.32898,4.34265l0,0zm17.04352,0.04419l0.22156,-5.15771l8.96826,0.39209l-0.37878,-22.31262l-7.55066,-0.11414l-0.18945,-6.06006l12.5191,-0.07849l0.53601,33.36157l-14.12604,-0.03064z" id="svg_19"/>
+   </g>
+   <g id="svg_51" pointer-events="visible" onclick="setVoice()">
+    <title>Voice</title>
+    <circle fill="none" cx="829.71472" cy="1124.19625" r="49.48272" stroke-width="8" id="svg_10" stroke="#000000"/>
+    <path fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m792.38525,1108.77222l0,31.18396l17.76129,0l26.5564,21.80933l0.02399,-74.80261l-26.58038,21.80933l-17.76129,0l0,0zm54.51178,-3.59094c-1.54254,-1.51819 -4.02484,-1.51819 -5.56696,0.02466c-1.54211,1.54211 -1.54211,4.02417 0,5.59094l0,-0.02478c3.39795,3.42285 5.49457,8.09766 5.49457,13.30298c0,5.18115 -2.09662,9.8562 -5.49457,13.25427c-1.54211,1.54211 -1.54211,4.04883 0,5.59082c0.77106,0.77112 1.78345,1.15686 2.79547,1.15686c1.01208,0 2.02435,-0.38574 2.79541,-1.15686c4.81982,-4.81995 7.8078,-11.495 7.8078,-18.84509c0,-7.37427 -3.01208,-14.07385 -7.83173,-18.8938l0,0zm9.06104,-9.06067c-1.54236,-1.54285 -4.0246,-1.54285 -5.56671,0c-1.5423,1.56616 -1.5423,4.0481 0,5.59106c5.71143,5.73584 9.25385,13.6156 9.25385,22.3634c0,8.72351 -3.54242,16.60388 -9.25385,22.33948c-1.5423,1.54224 -1.5423,4.02454 0,5.56702c0.77106,0.77087 1.78333,1.15662 2.79529,1.15662c1.01233,0 2.02441,-0.38574 2.79547,-1.15662c7.13342,-7.13354 11.56775,-17.01416 11.56775,-27.90649c0,-10.91675 -4.43427,-20.79749 -11.5918,-27.95447z" id="svg_12"/>
+   </g>
+   <g id="svg_54" pointer-events="visible" onclick="alert('not yet implemented.')">
+    <title>Settings</title>
+    <circle fill="none" cx="1220.57043" cy="1124.19623" r="49.48272" stroke-width="8" id="svg_13" stroke="#000000"/>
+    <path fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1247.95593,1125.78601l9.41382,-4.97412c-0.18298,-1.86108 -0.53369,-3.6311 -0.99158,-5.40088l-10.45154,-1.43457c-0.90039,-2.19702 -2.10583,-4.21094 -3.50903,-6.07214l3.98218,-9.79578c-1.297,-1.28186 -2.71594,-2.44067 -4.2113,-3.50952l-8.88013,5.55371c-2.07532,-1.0675 -4.31763,-1.92261 -6.6676,-2.44055l-3.2196,-9.94775c-0.90015,-0.06104 -1.81567,-0.12244 -2.74622,-0.12244s-1.83105,0.0614 -2.7467,0.12244l-3.17371,9.85596c-2.41077,0.51843 -4.71448,1.34326 -6.85107,2.47217l-8.72742,-5.49353c-1.495,1.06885 -2.91394,2.22766 -4.21069,3.50952l3.87537,9.52051c-1.51086,1.95386 -2.7771,4.08948 -3.73816,6.37854l-10.11621,1.40344c-0.44226,1.76978 -0.80872,3.53979 -0.99146,5.40088l9.09351,4.79102c0.09143,2.53259 0.5188,5.00476 1.26611,7.29395l-6.86548,7.5979c0.80847,1.64832 1.69348,3.23425 2.7157,4.76013l10.10034,-2.16663c1.64783,1.8009 3.54053,3.35718 5.61523,4.6687l-0.38123,10.34583c1.64771,0.73218 3.37195,1.37305 5.15686,1.86121l6.37805,-8.20886c1.12903,0.15283 2.28882,0.24414 3.448,0.24414c1.26648,0 2.51831,-0.12183 3.7384,-0.27454l6.40808,8.23926c1.78577,-0.48816 3.49426,-1.12903 5.15771,-1.86121l-0.39685,-10.52832c1.9834,-1.28186 3.78369,-2.80762 5.37073,-4.54663l10.36023,2.22705c1.02185,-1.49475 1.90686,-3.11182 2.70056,-4.76013l-7.06458,-7.84204c0.67163,-2.16663 1.0531,-4.48608 1.15967,-6.8667l0,0zm-15.63953,11.96216l-4.45532,2.89941l-2.74622,-4.21106c-1.43445,0.54846 -2.97534,0.88501 -4.5929,0.88501c-7.07959,0 -12.80127,-5.73755 -12.80127,-12.81714c0,-7.07947 5.72168,-12.81628 12.80127,-12.81628c7.07983,0 12.81702,5.73682 12.81702,12.81628c0,3.53979 -1.43433,6.71387 -3.75366,9.03333l2.73108,4.21045l0,0z" id="svg_16"/>
+   </g>
+   <g id="svg_55" pointer-events="visible" onclick="goto(frame+1)">
+    <title>Next</title>
+    <circle fill="none" cx="1350.85576" cy="1124.19624" r="49.48272" id="svg_3" stroke-width="8" stroke="#000000"/>
+    <path fill="#000000" stroke-width="0" d="m1326.65942,1147.29089l23.57983,-23.5769l-23.57983,-23.57971l13.47632,-13.47339l37.05615,37.0531l-37.05615,37.06458" id="svg_4" stroke="#000000"/>
+   </g>
+   <g id="svg_2" pointer-events="visible" onclick="setQr(qr)">
+    <title>QR</title>
+    <circle id="svg_44" fill="none" cx="959.99999" cy="1124.19625" r="49.48272" stroke-width="9" stroke="#000000"/>
+    <g id="svg_43">
+     <path stroke-width="0" fill="#000000" id="svg_5" d="m950.5448,1115.7063l0,-18.19897l0,-4.54968l-18.19836,0l-4.55035,0l0,4.54968l0,13.64856l0,4.55042l18.19769,0l4.55103,0zm-18.19836,-4.55042l0,-13.64856l13.64734,0l0,13.64856l-13.64734,0z"/>
+     <rect stroke-width="0" fill="#000000" id="svg_9" height="4.54974" width="4.54974" y="1102.05581" x="936.8949"/>
+     <polygon stroke-width="0" fill="#000000" id="svg_21" points="964.1939086914062,1102.0570882558823 959.6436157226562,1102.0570882558823 959.6436157226562,1097.5072835683823 964.1939086914062,1097.5072835683823 964.1939086914062,1092.9576009511948 959.6436157226562,1092.9576009511948 955.09326171875,1092.9576009511948 955.09326171875,1097.5072835683823 955.09326171875,1106.6068929433823 959.6436157226562,1106.6068929433823 959.6436157226562,1111.1558431386948 964.1939086914062,1111.1558431386948 "/>
+     <polygon stroke-width="0" fill="#000000" id="svg_22" points="959.6436157226562,1124.8050130605698 964.1939086914062,1124.8050130605698 964.1939086914062,1115.7062581777573 959.6436157226562,1115.7062581777573 959.6436157226562,1111.1558431386948 955.09326171875,1111.1558431386948 955.09326171875,1120.2553304433823 959.6436157226562,1120.2553304433823 "/>
+     <path stroke-width="0" fill="#000000" id="svg_23" d="m973.29211,1092.95764l-4.54962,0l0,22.74866l4.54962,0l13.64935,0l4.54956,0l0,-18.19897l0,-4.54968l-18.19891,0zm13.64856,18.19824l-13.64856,0l0,-13.64856l13.64935,0l0,13.64856l-0.00079,0z"/>
+     <rect stroke-width="0" fill="#000000" id="svg_24" height="4.54974" width="4.55101" y="1102.05581" x="977.84124"/>
+     <polygon stroke-width="0" fill="#000000" id="svg_25" points="927.7960815429688,1120.2553304433823 927.7960815429688,1124.8050130605698 927.7960815429688,1129.3553060293198 932.346435546875,1129.3553060293198 932.346435546875,1124.8050130605698 936.8948974609375,1124.8050130605698 936.8948974609375,1120.2553304433823 "/>
+     <polygon stroke-width="0" fill="#000000" id="svg_26" points="964.1939086914062,1133.9036458730698 964.1939086914062,1129.3553060293198 959.6436157226562,1129.3553060293198 959.6436157226562,1124.8050130605698 955.09326171875,1124.8050130605698 955.09326171875,1120.2553304433823 941.4446411132812,1120.2553304433823 941.4446411132812,1124.8050130605698 936.8948974609375,1124.8050130605698 936.8948974609375,1129.3553060293198 945.9937744140625,1129.3553060293198 945.9937744140625,1124.8050130605698 950.5447998046875,1124.8050130605698 950.5447998046875,1129.3553060293198 955.09326171875,1129.3553060293198 955.09326171875,1133.9036458730698 959.6436157226562,1133.9036458730698 959.6436157226562,1138.4547933340073 964.1939086914062,1138.4547933340073 "/>
+     <polygon stroke-width="0" fill="#000000" id="svg_27" points="968.7424926757812,1147.5536702871323 973.2921142578125,1147.5536702871323 973.2921142578125,1143.0025228261948 968.7424926757812,1143.0025228261948 968.7424926757812,1138.4547933340073 964.1939086914062,1138.4547933340073 964.1939086914062,1143.0025228261948 959.6436157226562,1143.0025228261948 959.6436157226562,1138.4547933340073 955.09326171875,1138.4547933340073 955.09326171875,1147.5536702871323 959.6436157226562,1147.5536702871323 959.6436157226562,1152.1027425527573 964.1939086914062,1152.1027425527573 964.1939086914062,1147.5536702871323 "/>
+     <rect stroke-width="0" fill="#000000" id="svg_28" height="4.54846" width="4.54974" y="1138.45368" x="973.29214"/>
+     <rect stroke-width="0" fill="#000000" id="svg_29" height="4.55101" width="4.54974" y="1133.90268" x="968.74241"/>
+     <polygon stroke-width="0" fill="#000000" id="svg_30" points="968.7424926757812,1129.3553060293198 973.2921142578125,1129.3553060293198 973.2921142578125,1133.9036458730698 977.8412475585938,1133.9036458730698 977.8412475585938,1138.4547933340073 982.3922119140625,1138.4547933340073 982.3922119140625,1129.3553060293198 977.8412475585938,1129.3553060293198 977.8412475585938,1124.8050130605698 973.2921142578125,1124.8050130605698 973.2921142578125,1120.2553304433823 968.7424926757812,1120.2553304433823 968.7424926757812,1124.8050130605698 964.1939086914062,1124.8050130605698 964.1939086914062,1129.3553060293198 "/>
+     <rect stroke-width="0" fill="#000000" id="svg_31" height="9.09947" width="4.55037" y="1129.35422" x="986.9407"/>
+     <rect stroke-width="0" fill="#000000" id="svg_32" height="4.54974" width="4.55101" y="1120.25411" x="977.84124"/>
+     <rect stroke-width="0" fill="#000000" id="svg_33" height="4.55037" width="4.5491" y="1124.80385" x="982.39225"/>
+     <rect stroke-width="0" fill="#000000" id="svg_34" height="4.54974" width="4.55037" y="1120.25411" x="986.9407"/>
+     <rect stroke-width="0" fill="#000000" id="svg_35" height="4.54846" width="4.5491" y="1138.45368" x="982.39225"/>
+     <rect stroke-width="0" fill="#000000" id="svg_36" height="4.55101" width="4.55037" y="1143.00151" x="986.9407"/>
+     <rect stroke-width="0" fill="#000000" id="svg_37" height="4.54974" width="4.55037" y="1152.10162" x="986.9407"/>
+     <polygon stroke-width="0" fill="#000000" id="svg_38" points="977.8412475585938,1147.5536702871323 973.2921142578125,1147.5536702871323 973.2921142578125,1152.1027425527573 977.8412475585938,1152.1027425527573 977.8412475585938,1156.6524251699448 982.3922119140625,1156.6524251699448 982.3922119140625,1143.0025228261948 977.8412475585938,1143.0025228261948 "/>
+     <rect stroke-width="0" fill="#000000" id="svg_39" height="4.54974" width="9.09819" y="1152.10162" x="964.19395"/>
+     <rect stroke-width="0" fill="#000000" id="svg_40" height="4.54974" width="4.55037" y="1152.10162" x="955.09321"/>
+     <path stroke-width="0" fill="#000000" id="svg_41" d="m927.79608,1138.45483l0,18.19763l4.55035,0l18.19836,0l0,-4.54968l0,-13.64795l0,-4.55115l-22.74872,0l0,4.55115zm18.19769,0l0,13.64856l-13.64734,0l0,-13.64856l13.64734,0z"/>
+     <rect stroke-width="0" fill="#000000" id="svg_42" height="4.55101" width="4.54974" y="1143.00151" x="936.8949"/>
+    </g>
+   </g>
+   <g id="svg_7" pointer-events="visible" onclick="location.reload()">
+    <title>Refresh</title>
+    <circle fill="none" cx="1090.28522" cy="1124.19624" r="49.48272" stroke-width="8" id="svg_15" stroke="#000000"/>
+    <path id="svg_46" d="m1090.25,1094.44995c3.06006,0.02002 5.98999,0.54004 8.73999,1.43005l-2.19995,3.81995l15.63,0l-3.91003,-6.77991l-3.91003,-6.75l-2.01001,3.53992c-3.84998,-1.3999 -8,-2.19995 -12.33997,-2.19995c-20.02002,0 -36.19995,16.21997 -36.19995,36.20996c0,8.27002 2.80994,15.91003 7.51001,22.01001l5.48999,-4.20996c-3.78003,-4.95007 -6.04004,-11.10999 -6.1001,-17.80005c0.06006,-16.17993 13.12,-29.25 29.30005,-29.27002zm28.64001,7.26001l-5.5,4.21008c3.79004,4.94995 6.10999,11.08997 6.10999,17.79993c-0.06006,16.15002 -13.13,29.21997 -29.25,29.25c-2.87,0 -5.60999,-0.45996 -8.23999,-1.25l2.07996,-3.57996l-15.63,0l3.90002,6.75l3.91003,6.78003l2.19995,-3.79004c3.66003,1.31995 7.63,2.02002 11.78003,2.02002c19.96997,0 36.15002,-16.21008 36.15002,-36.18005c0,-8.29993 -2.81006,-15.92993 -7.51001,-22.01001z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="#000000" stroke="#000000"/>
+   </g>
+  </g>
+ </g>
+
+
+</svg>

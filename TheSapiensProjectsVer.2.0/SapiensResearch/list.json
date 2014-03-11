@@ -1,0 +1,15 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "01.research.svg", "captions": {"en": "Sapiens Research.  Software for creating transparent research papers from top to bottom.  "}},
+	{ "slide": "ideas4.0.svg", "captions": {"en": "There are more and more problems surfacing in the research field. Problems about questionable paper reviews, about unfair attributions or about dubious scientific results. "}},
+	{ "slide": "ideas4.1.svg", "captions": {"en": "Our software will have tools for data storage, management and analysis, which could also determine in a semiautomatic way if the quality of the paper is acceptable.  "}},
+	{ "slide": "ideas4.2.svg", "captions": {"en": "Paper writing tools with versioning.  "}},
+	{ "slide": "ideas4.3.svg", "captions": {"en": "Transparent collaboration tools between contributors and other people invited to take part.  "}},
+	{ "slide": "ideas4.4.svg", "captions": {"en": "Transparent decision making with attribution, transparent meeting scheduling.  "}},
+	{ "slide": "ideas4.5.svg", "captions": {"en": "We want to make research transparent and meritocratic.  "}},
+	{ "slide": "ideas4.6.svg", "captions": {"en": "Also, we will link it to our other projects: subject dot raw, dataverse.  "}},
+	{ "slide": "ideas4.7.svg", "captions": {"en": "This system will be able to automatically give credit to its collaborators, based in their work.  "}},
+	{ "slide": "ideas4.8.svg", "captions": {"en": "Everyone deserves the same chance for making quality research, regardless of country, affiliation, or private reviewers.  We believe that research papers should be made open for everyone to peer-review.  "}},
+	{ "slide": "01.research.svg", "captions": {"en": "Sapiens Research.  Meritocracy and transparency.  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

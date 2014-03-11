@@ -1,0 +1,8 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "60.save.svg", "captions": {"en": "Sapiens Save.  Software for managing a volunteer-based emergency system.  "}},
+	{ "slide": "61.ideas5.1.svg", "captions": {"en": "Such a system has already been implemented in other parts of the world and it goes like this: accident, emergency call center, volunteers which are available and near, ambulance, hospital.  The link between the call center and the volunteers will be the mobile app we will develop.  "}},
+	{ "slide": "62.ideas5.2.svg", "captions": {"en": "And this is what we will bring new to the table:  proof of activity, process monitoring, early data transmission to the hospital, activity statistics.  Also, we would like to help create an official online course for emergency volunteers. "}},
+	{ "slide": "63.save.svg", "captions": {"en": "Sapiens Save.  Be a hero.  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

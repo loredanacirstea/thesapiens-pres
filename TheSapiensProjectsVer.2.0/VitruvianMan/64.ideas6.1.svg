@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_9">
+   <g id="svg_3">
+    <circle id="svg_1" r="56.53125" cy="410.77241" cx="428.47655" fill="#000000"/>
+    <path id="svg_2" d="m466.16406,486.1474l-75.375,0c-34.54688,0 -62.8125,28.26563 -62.8125,62.8125l0,144.46875c0,25.62128 15.56494,47.75641 37.6875,57.4986l0,181.18884c0,27.63757 22.61249,50.25006 50.25,50.25006l25.125,0c27.63751,0 50.25,-22.61249 50.25,-50.25006l0,-181.18884c22.12256,-9.74854 37.6875,-31.87732 37.6875,-57.4986l0,-144.46875c0,-34.54688 -28.26563,-62.8125 -62.8125,-62.8125z" fill="#000000"/>
+   </g>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="147" id="svg_7" y="233.20859" x="428.47955" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">human</text>
+  </g>
+  <g id="svg_15">
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m485.76056,354.04993l11.11206,-9.99997l-7.31799,0l-11.1134,9.99997l11.1134,10.00003l7.31799,0l-11.11206,-10.00003z" id="svg_13" stroke="#000000"/>
+   <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="5,5" stroke-linejoin="null" stroke-linecap="null" x1="489.42857" y1="354.14286" x2="1487.492" y2="354.14286" id="svg_12"/>
+   <path fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1490.70471,354.49997l-9.98901,-9.99997l6.57837,0l9.99023,9.99997l-9.99023,10.00003l-6.57837,0l9.98901,-10.00003z" id="svg_14"/>
+  </g>
+  <g id="svg_16">
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m484.94128,468.64447l11.11206,-9.99994l-7.31799,0l-11.11343,9.99994l11.11343,10.00006l7.31799,0l-11.11206,-10.00006z" stroke="#000000" id="svg_17"/>
+   <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="5,5" stroke-linejoin="null" stroke-linecap="null" x1="488.60929" y1="468.73744" x2="1486.67272" y2="468.73744" id="svg_18"/>
+   <path fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1489.88538,469.09454l-9.98901,-10l6.57837,0l9.99023,10l-9.99023,10l-6.57837,0l9.98901,-10z" id="svg_19"/>
+  </g>
+  <g id="svg_20">
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m521.54889,751.99231l10.38416,-9.99994l-6.83868,0l-10.38544,9.99994l10.38544,10.00006l6.83868,0l-10.38416,-10.00006z" id="svg_21" stroke="#000000"/>
+   <line fill="none" stroke-width="5" stroke-dasharray="5,5" stroke-linejoin="null" stroke-linecap="null" x1="524.97657" y1="752.0853" x2="1457.66209" y2="752.0853" id="svg_22" stroke="#000000"/>
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1460.66431,752.44238l-9.33472,-10l6.14758,0l9.33557,10l-9.33557,10l-6.14758,0l9.33472,-10z" id="svg_23" stroke="#000000"/>
+  </g>
+  <g id="svg_4">
+   <circle id="svg_5" r="56.53125" cy="410.77242" cx="1558.91398" fill="#428bca"/>
+   <path id="svg_6" d="m1596.60156,486.14743l-75.375,0c-34.54688,0 -62.81262,28.26553 -62.81262,62.81247l0,144.46875c0,25.62128 15.56506,47.75641 37.68762,57.4986l0,181.18884c0,27.63757 22.61255,50.25006 50.25,50.25006l25.125,0c27.63745,0 50.25,-22.61249 50.25,-50.25006l0,-181.18884c22.12256,-9.74854 37.6875,-31.87732 37.6875,-57.4986l0,-144.46875c0,-34.54694 -28.26563,-62.81247 -62.8125,-62.81247z" fill="#428bca"/>
+  </g>
+  <text style="cursor: move;" id="svg_8" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="147" y="249.52481" x="1558.91741" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#428bca">vitruvian</text>
+  <g id="svg_24">
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m511.2135,980.38361l10.73328,-9.99994l-7.06866,0l-10.73444,9.99994l10.73444,10.00006l7.06866,0l-10.73328,-10.00006z" id="svg_25" stroke="#000000"/>
+   <line fill="none" stroke-width="5" stroke-dasharray="5,5" stroke-linejoin="null" stroke-linecap="null" x1="514.75649" y1="980.47664" x2="1478.78938" y2="980.47664" id="svg_26" stroke="#000000"/>
+   <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m1481.89246,980.83368l-9.64832,-10l6.354,0l9.64941,10l-9.64941,10l-6.354,0l9.64832,-10z" id="svg_27" stroke="#000000"/>
+  </g>
+ </g>
+</svg>

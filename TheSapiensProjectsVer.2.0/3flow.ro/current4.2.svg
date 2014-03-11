@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_46">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_1"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_47">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_2"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_48">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_3"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_49">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_4"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_55">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_5"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_56">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_6"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_57">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_7"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_58">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_8"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_start_svg_59">
+   <path stroke-width="10" stroke="#428bca" fill="#428bca" d="m0,50l100,40l-30,-40l30,-40l-100,40z" id="svg_10"/>
+  </marker>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#428bca" id="svg_56" marker-start="url(#se_marker_start_svg_56)" fill-opacity="0" d="m1296.5177,489.56024c-276.39331,136.25732 -479.25269,-96.56445 -793.336,10.01401" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  <g id="svg_50">
+   <path stroke="#000000" marker-start="url(#se_marker_start_svg_46)" id="svg_46" d="m1292.75989,400.46545c-49.07886,2.27301 -149.58203,0 -147.70715,-0.45374l147.70715,0.45374z" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+   <rect stroke="#000000" id="svg_38" ry="16" rx="16" height="176.24732" width="175.57447" y="312.61202" x="967.78386" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" fill="#cea7a7"/>
+   <rect stroke="#000000" id="svg_39" ry="16" rx="16" height="176.24732" width="175.57447" y="312.61198" x="1316.59188" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" fill="#b2b2b2"/>
+   <rect stroke="#000000" id="svg_40" ry="16" rx="16" height="176.24732" width="175.57447" y="312.61198" x="1667.74083" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" fill="#d3d36e"/>
+   <rect stroke="#000000" id="svg_41" ry="16" rx="16" height="176.24732" width="175.57447" y="670.37138" x="1492.16634" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" fill="#8fb78f"/>
+   <rect stroke="#000000" id="svg_42" ry="16" rx="16" height="176.24732" width="175.57447" y="670.37131" x="1141.01738" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="5" fill="#a7a7c6"/>
+   <path stroke="#000000" id="svg_47" marker-start="url(#se_marker_start_svg_47)" d="m1644.73718,400.46545c-49.07898,2.27301 -149.58252,0 -147.7074,-0.4538l147.7074,0.4538z" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+   <path stroke="#000000" id="svg_48" marker-start="url(#se_marker_start_svg_48)" d="m1339.98657,758.22479c48.58582,2.27313 148.07898,0 146.22314,-0.45374l-146.22314,0.45374z" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+   <path stroke="#000000" id="svg_49" marker-start="url(#se_marker_start_svg_49)" d="m1631.54834,649.47272c39.1864,-53.34998 124.87085,-158.30914 123.66199,-156.04376l-123.66199,156.04376z" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  </g>
+  <path stroke="#428bca" marker-start="url(#se_marker_start_svg_55)" fill-opacity="0" id="svg_55" d="m1050.99438,296.40347c-164.40009,-100.65123 -252.26654,-18.33908 -546.96637,146.38968" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  <path stroke="#428bca" id="svg_57" marker-start="url(#se_marker_start_svg_57)" fill-opacity="0" d="m1647.57312,490.2334c-732.93408,217.34863 -872.54297,-50.02466 -1144.16089,74.62543" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  <path stroke="#428bca" id="svg_58" marker-start="url(#se_marker_start_svg_58)" fill-opacity="0" d="m1502.19739,659.2995c-411.00037,-141.57172 -735.31409,117.57721 -999.86194,-35.36688" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  <path stroke="#428bca" id="svg_59" marker-start="url(#se_marker_start_svg_59)" fill-opacity="0" d="m1119.91321,704.93164c-196.70581,-81.26782 -302.64819,249.49255 -616.73151,-24.05945" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="8" fill="#000000"/>
+  <text style="cursor: move;" stroke="#000000" transform="matrix(1.07686 0 0 1.07686 -10.1626 -66.3262)" id="svg_101" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="57" y="254.88593" x="1314.66447" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="0" fill="#000000">software flow</text>
+  <text style="cursor: move;" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="395.58631" y="418.62202" id="svg_44" font-size="57" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.07686 0 0 1.07686 -10.1626 -66.3262)" stroke="#000000">.js</text>
+  <rect fill="#000000" stroke-width="8" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="69.337" y="327.74619" width="426.48211" height="422.59609" id="svg_9" fill-opacity="0" rx="16" ry="16" stroke="#000000"/>
+  <line fill="none" stroke="#000000" stroke-width="8" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0" x1="70" y1="404.26607" x2="490.14521" y2="404.26607" id="svg_105"/>
+  <text fill="#cea7a7" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="392" y="455.26607" id="svg_106" font-size="47" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">&lt;script1&gt;</text>
+  <text fill="#b2b2b2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="390" y="514.96138" font-size="47" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_107">&lt;script2&gt;</text>
+  <text fill="#d3d36e" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="394" y="576.96138" font-size="47" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_108">&lt;script3&gt;</text>
+  <text fill="#8fb78f" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" x="394" y="635.96138" font-size="47" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_109">&lt;script4&gt;</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="47" id="svg_11" y="695.26607" x="394" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#a7a7c6">&lt;script5&gt;</text>
+ </g>
+</svg>

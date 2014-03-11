@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_11">
+   <g id="svg_8">
+    <path d="m931.83759,682.74835c2.84186,-14.8941 5.0166,-29.93896 5.0166,-48.32361c0,-56.57916 -15.34186,-102.44476 -34.26563,-102.44476c-18.92822,0 -34.2655,45.8656 -34.2655,102.44476c0,17.52124 1.52136,33.9093 4.12097,48.32361" id="svg_1"/>
+    <path d="m1001.86267,466.54654c7.03589,61.45865 35.31189,108.70401 63.16284,105.51956c27.86011,-3.18903 44.73254,-55.60156 37.69214,-117.06479c-7.03577,-61.4678 -17.0415,-109.22485 -44.89697,-106.0358c-27.8512,3.18896 -62.9939,56.11322 -55.95801,117.58102z" id="svg_2" fill="black"/>
+    <path d="m1067.4425,354.61249c6.78442,12.34009 -20.59143,40.84448 -61.13904,63.64703c-40.56116,22.81174 -78.9386,31.28674 -85.71863,18.94199c-6.78918,-12.3447 20.58215,-40.83994 61.12976,-63.65628c40.56134,-22.80249 78.9386,-31.27295 85.72791,-18.93274z" id="svg_3"/>
+    <ellipse cx="985.58886" cy="548.77466" rx="100.51225" ry="37.04333" id="svg_4"/>
+    <ellipse cx="1032.03465" cy="289.74089" rx="49.49314" ry="50.16475" id="svg_5"/>
+    <path d="m731.26086,455.41254l254.1864,-1.1011c0,0 15.70728,13.19907 -1.09204,32.99994c-16.80371,19.79184 -253.09436,26.39365 -253.09436,26.39365l0,-58.29248z" id="svg_6"/>
+    <path d="m886.59802,445.17395c0,0 22.84369,-4.56873 15.99054,-18.20642c-1.02789,-2.04224 -105.26367,-6.07187 -105.26367,-6.07187l-31.44208,-115.31494c0,0 -15.6936,-12.25333 -20.68732,6.06732c-4.96613,18.21097 30.85736,133.52591 30.85736,133.52591" id="svg_7"/>
+   </g>
+   <g id="svg_15">
+    <line fill="none" stroke-width="15" x1="1115.99997" y1="185.84179" x2="1115.99997" y2="235.93627" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="svg_16"/>
+    <circle fill="#000000" stroke-width="15" stroke-linejoin="round" stroke-linecap="round" cx="1115.99997" cy="268.32007" r="4.83813" stroke="#000000" id="svg_17"/>
+   </g>
+   <g id="svg_22">
+    <line fill="none" stroke-width="15" x1="902.99997" y1="197.13049" x2="902.99997" y2="247.22496" id="svg_12" stroke-linejoin="round" stroke-linecap="round" stroke="#000000"/>
+    <circle fill="#000000" stroke-width="15" stroke-linejoin="round" stroke-linecap="round" cx="902.99994" cy="279.60877" r="4.83815" id="svg_13" stroke="#000000"/>
+   </g>
+   <g id="svg_24">
+    <path fill="none" stroke-width="11" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="round" d="m931.5,214.37173c1.81854,-25.00363 21.49139,-24.14145 22.31799,-5.69049c0.41333,9.22545 -3.05841,14.09686 -9.73315,22.82657c-6.67468,8.72971 -1.67383,17.6965 -3.65765,19.59334" id="svg_18" stroke="#000000"/>
+    <circle fill="#000000" stroke-width="15" stroke-linejoin="round" stroke-linecap="round" cx="942.67552" cy="279.60878" r="4.83813" stroke="#000000" id="svg_23"/>
+   </g>
+  </g>
+  <ellipse stroke="#000000" fill-opacity="0" ry="160.06957" rx="256.52175" id="svg_14" cy="181.66958" cx="293.04343" stroke-width="15" fill="#000000"/>
+  <ellipse transform="rotate(-35.1982 567 279.53)" stroke="#000000" id="svg_19" fill-opacity="0" ry="23.06087" rx="36.95652" cy="279.53047" cx="566.99999" stroke-width="8" fill="#000000"/>
+  <ellipse transform="rotate(-49.1342 624.087 295.817)" stroke="#000000" id="svg_20" fill-opacity="0" ry="14.24347" rx="22.82608" cy="295.8174" cx="624.08695" stroke-width="6" fill="#000000"/>
+  <g id="svg_21">
+   <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="287.60445" y="162.93396" id="svg_9" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">collaboration</text>
+   <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="293.04606" y="252.35133" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_10">transparency</text>
+  </g>
+  <g id="svg_37">
+   <text id="svg_32" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="327.83248" y="791.48961" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">research</text>
+   <text id="svg_33" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="327.82097" y="880.90698" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">environment</text>
+  </g>
+  <ellipse id="svg_30" stroke="#000000" fill-opacity="0" ry="160.06957" rx="256.52175" cy="810.21742" cx="327.82614" stroke-width="15" fill="#000000"/>
+  <ellipse id="svg_38" transform="rotate(-127.497 592.408 710.885)" stroke="#000000" fill-opacity="0" ry="23.06087" rx="36.95652" cy="710.88451" cx="592.40763" stroke-width="8" fill="#000000"/>
+  <ellipse id="svg_39" transform="rotate(-135.831 628.13 670.581)" stroke="#000000" fill-opacity="0" ry="14.24347" rx="22.82608" cy="670.58124" cx="628.12988" stroke-width="6" fill="#000000"/>
+  <ellipse stroke="#000000" id="svg_41" fill-opacity="0" ry="160.06957" rx="277.24482" cy="286.30435" cx="1568.17078" stroke-width="15" fill="#000000"/>
+  <ellipse stroke="#000000" id="svg_42" transform="matrix(-0.883177 -0.576407 -0.622972 0.817163 2820.21 1151.96)" fill-opacity="0" ry="23.06087" rx="36.95652" cy="198.23367" cx="1613.07225" stroke-width="8" fill="#000000"/>
+  <ellipse stroke="#000000" id="svg_43" transform="matrix(-0.707146 -0.756244 -0.817337 0.65429 2611.98 1624.3)" fill-opacity="0" ry="14.24347" rx="22.82608" cy="179.97677" cx="1774.03022" stroke-width="6" fill="#000000"/>
+  <g id="svg_51">
+   <text id="svg_49" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1568.16674" y="261.05313" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">plagiarism</text>
+   <text id="svg_50" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1568.17085" y="363.51398" font-size="76" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">allegations</text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+[
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}},
+	{ "slide": "47.hackerspace.svg", "captions": {"en": "The word hack has evolved into a concept.  It means thinking outside the box.  Hackerspaces are places with new technologies"}},
+	{ "slide": "48.hack1.svg", "captions": {"en": "3D printers, augmented reality systems "}},
+	{ "slide": "49.hack2.svg", "captions": {"en": "microscopes and other types of hardware "}},
+	{ "slide": "50.hack3.svg", "captions": {"en": "The project Leader has already booked some interesting things from some startup projects and we hope to receive them this summer.  "}},
+	{ "slide": "51.hack4.svg", "captions": {"en": "But there is always a catch.  "}},
+	{ "slide": "52.hack5.svg", "captions": {"en": "We aim at software development.  And we don’t have any funding yet.  So, these toys will be reserved for our future core and alpha teams, meaning our most productive volunteers.  And yes, we have a couple of hardware projects in mind too."}},
+	{ "slide": "53.neural.svg", "captions": {"en": "From a neural impulse actuator which is basically a brain-computer interface.  "}},
+	{ "slide": "54.ecg.svg", "captions": {"en": "To a low-cost mobile EKG developed by a Hungarian engineer.  "}},
+	{ "slide": "55.hack8.svg", "captions": {"en": "And we welcome any sport partners.  "}},
+	{ "slide": "56.hack9.svg", "captions": {"en": "And other types of creative people.  "}},
+	{ "slide": "../TheSapiensLinks.svg", "captions": {"en": ""}}
+]

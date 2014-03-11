@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="178" id="svg_1" y="368.95554" x="1044.23876" stroke-width="0" stroke="#000000" fill="#000000">data mining</text>
+   <text id="svg_2" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="178" y="600.78196" x="923.59338" stroke-width="0" stroke="#000000" fill="#000000">statistics</text>
+   <text id="svg_3" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="178" y="833.39066" x="996.69596" stroke-width="0" stroke="#000000" fill="#000000">activity log</text>
+   <circle stroke="#000000" id="svg_4" r="39.13042" cy="307.78127" cx="451.84747" stroke-width="0" fill="#428bca"/>
+   <circle id="svg_5" stroke="#000000" r="39.13042" cy="533.07814" cx="451.84746" stroke-width="0" fill="#428bca"/>
+   <circle id="svg_6" stroke="#000000" r="39.13042" cy="772.21875" cx="451.84746" stroke-width="0" fill="#428bca"/>
+  </g>
+ </g>
+</svg>

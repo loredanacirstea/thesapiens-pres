@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_14">
+   <line stroke="#000000" id="svg_12" y2="302.2257" x2="800.19708" y1="302.2257" x1="446.13369" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <g id="svg_3">
+    <circle fill="#000000" cx="374.18167" cy="359.85525" r="56.53125" id="svg_1"/>
+    <path fill="#000000" d="m411.86874,435.23004l-75.375,0c-34.54599,0 -62.81198,28.26599 -62.81198,62.81299l0,144.46802c0,25.62201 15.565,47.75702 37.68701,57.49902l0,181.18896c0,27.63702 22.61301,50.25 50.25,50.25l25.125,0c27.638,0 50.24997,-22.61298 50.24997,-50.25l0,-181.18896c22.12305,-9.74902 37.68802,-31.87701 37.68802,-57.49902l0,-144.46802c0,-34.547 -28.26599,-62.81299 -62.81302,-62.81299z" id="svg_2"/>
+   </g>
+   <line stroke="#000000" id="svg_28" y2="416.58284" x2="802.73684" y1="416.58284" x1="446.67343" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <line stroke="#000000" id="svg_29" y2="701.58284" x2="804.73682" y1="701.58284" x1="456.67343" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <line stroke="#000000" id="svg_30" y2="926.58284" x2="805.73684" y1="926.58284" x1="436.67343" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <line stroke="#000000" transform="rotate(-90 318.705 206.583)" id="svg_31" y2="206.58284" x2="376.73684" y1="206.58284" x1="260.67342" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <g id="svg_37">
+    <path stroke="#000000" id="svg_34" d="m419.27777,204.58804l-7.49298,-11l4.935,0l7.49298,11l-7.49298,11l-4.935,0l7.49298,-11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+    <line stroke="#000000" id="svg_33" y2="204.08284" x2="415.00456" y1="204.08284" x1="334.53431" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="none"/>
+    <path stroke="#000000" id="svg_36" d="m330.52774,203.58304l7.49301,11l-4.935,0l-7.49301,-11l7.49301,-11l4.935,0l-7.49301,11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+   </g>
+   <line id="svg_32" stroke="#000000" transform="rotate(-90 429.705 206.583)" y2="206.58284" x2="487.73684" y1="206.58284" x1="371.67342" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,5" stroke-width="5" fill="none"/>
+   <g transform="rotate(90 559.705 359.583)" id="svg_39">
+    <path stroke="#000000" id="svg_40" d="m605.88074,360.08505l-7.79797,-11l5.13501,0l7.79797,11l-7.79797,11l-5.13501,0l7.79797,-11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+    <line stroke="#000000" id="svg_41" y2="359.58034" x2="601.43341" y1="359.58034" x1="517.69933" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="none"/>
+    <path stroke="#000000" id="svg_42" d="m513.52979,359.08002l7.797,11l-5.13501,0l-7.797,-11l7.797,-11l5.13501,0l-7.797,11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+   </g>
+   <g id="svg_48">
+    <line stroke="#000000" transform="rotate(90 641.708 558.216)" id="svg_45" y2="558.21562" x2="764.02293" y1="558.21562" x1="519.39232" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="none"/>
+    <path stroke="#000000" transform="rotate(90 642.208 432.888)" id="svg_46" d="m639.81677,432.88806l14.00598,11l-9.224,0l-14.00598,-11l14.00598,-11l9.224,0l-14.00598,11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+    <path stroke="#000000" id="svg_47" transform="rotate(90 641.705 684.083)" d="m644.15173,684.08307l-14.33197,11l9.43896,0l14.33099,-11l-14.33099,-11l-9.43896,0l14.33197,11z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+   </g>
+   <g id="svg_49">
+    <line stroke="#000000" id="svg_50" y2="908.92095" x2="530.45701" y1="718.61402" x1="530.45701" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="none"/>
+    <path stroke="#000000" id="svg_51" d="m530.95575,714.41107l-10.99994,10.896l0,-7.17603l10.99994,-10.896l11,10.896l0,7.17603l-11,-10.896z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+    <path stroke="#000000" id="svg_52" d="m530.45477,913.58807l-11,-11.14899l0,7.34296l11,11.14801l11,-11.14801l0,-7.34296l-11,11.14899z" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="#000000"/>
+   </g>
+  </g>
+  <g id="svg_15">
+   <path stroke-width="12" d="m1610.05823,288.38705l-199.3999,0c-20.03015,0 -36.26013,16.23001 -36.26013,36.25497l0,430.716c0,20.02502 16.22998,36.255 36.26013,36.255l199.3999,0c20.03003,0 36.25989,-16.22998 36.25989,-36.255l0,-430.716c0,-20.02496 -16.22986,-36.25497 -36.25989,-36.25497zm-99.69995,487.17203c-13.04016,0 -23.60999,-10.565 -23.60999,-23.60004c0,-13.03998 10.56982,-23.60498 23.60999,-23.60498c13.02991,0 23.59998,10.565 23.59998,23.60498c0,13.03503 -10.57007,23.60004 -23.59998,23.60004zm113.30005,-76.849c0,7.49396 -6.1001,13.59497 -13.6001,13.59497l-199.3999,0c-7.5,0 -13.6001,-6.10101 -13.6001,-13.59497l0,-374.06805c0,-7.49396 6.1001,-13.59598 13.6001,-13.59598l199.3999,0c7.5,0 13.6001,6.10202 13.6001,13.59598l0,374.06805z" stroke="#000000" id="svg_4" fill="#000000"/>
+   <line transform="rotate(-30 1232.05 501.5)" stroke="#000000" id="svg_8" y2="452.36004" x2="1182.91387" y1="550.64005" x1="1281.19388" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" fill="none"/>
+   <line id="svg_5" y2="313.72004" x2="1155.77386" y1="496.00005" x1="1338.05387" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" stroke="#000000" fill="none"/>
+   <line transform="rotate(-90 1248.05 678.5)" id="svg_6" y2="587.36004" x2="1156.91388" y1="769.64005" x1="1339.19388" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" stroke="#000000" fill="none"/>
+   <line id="svg_9" transform="rotate(-60 1231.05 581.5)" stroke="#000000" y2="532.36004" x2="1181.91387" y1="630.64005" x1="1280.19388" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" fill="none"/>
+  </g>
+ </g>
+</svg>
